@@ -1,0 +1,184 @@
+WEBVTT
+
+17bf4bf7-6c3d-4997-bb92-97424f179a3a-0
+00:00:02.040 --> 00:00:06.392
+When setting up a project in
+QGIS, the first thing we want to
+
+17bf4bf7-6c3d-4997-bb92-97424f179a3a-1
+00:00:06.392 --> 00:00:10.604
+do is create a folder to store
+our materials related to the
+
+17bf4bf7-6c3d-4997-bb92-97424f179a3a-2
+00:00:10.604 --> 00:00:12.640
+project and our project into.
+
+fc61fea2-7b19-4d33-8fca-9f068c12e7f5-0
+00:00:13.000 --> 00:00:16.632
+We want to make sure that it's
+stored in an organised and easy
+
+fc61fea2-7b19-4d33-8fca-9f068c12e7f5-1
+00:00:16.632 --> 00:00:17.440
+to access way.
+
+e76f46bc-874a-437a-b2ca-574c326bde8d-0
+00:00:19.720 --> 00:00:23.000
+So hopefully you've been able to
+download these materials.
+
+6a1752fc-d290-44d6-9c43-7e67eb05982d-0
+00:00:23.000 --> 00:00:25.040
+I've got them here in my
+downloads.
+
+8d43fc06-50ea-42a8-ac49-edbe81963f81-0
+00:00:25.080 --> 00:00:28.751
+If you downloaded them to
+somewhere else then navigate to
+
+8d43fc06-50ea-42a8-ac49-edbe81963f81-1
+00:00:28.751 --> 00:00:32.360
+where they are and now we're
+going to create our folder.
+
+fade1191-901f-47bf-a8b8-9cd1ee1445b2-0
+00:00:32.880 --> 00:00:37.387
+So I'm going to go into my
+OneDrive and then into My
+
+fade1191-901f-47bf-a8b8-9cd1ee1445b2-1
+00:00:37.387 --> 00:00:41.640
+Documents and I'm going to put
+my folder in here.
+
+d420f533-87d6-40c0-82ee-2867241bd8a1-0
+00:00:41.640 --> 00:00:48.528
+So I'm going to right click, go
+on to new and then create a new
+
+d420f533-87d6-40c0-82ee-2867241bd8a1-1
+00:00:48.528 --> 00:00:53.480
+folder and I'm going to name
+this intro QGIS.
+
+0d86dba7-15af-446c-a521-55c0b3a3bf45-0
+00:00:56.200 --> 00:01:00.080
+And now we have our folder where
+we're going to put our materials
+
+0d86dba7-15af-446c-a521-55c0b3a3bf45-1
+00:01:00.080 --> 00:01:03.195
+into you and we also have
+somewhere to save our QGIS
+
+0d86dba7-15af-446c-a521-55c0b3a3bf45-2
+00:01:03.195 --> 00:01:03.960
+project into.
+
+04c86a80-d0df-4b93-aa26-7efc585dca3f-0
+00:01:04.480 --> 00:01:08.347
+So let's go into our download
+and drag across the materials
+
+04c86a80-d0df-4b93-aa26-7efc585dca3f-1
+00:01:08.347 --> 00:01:12.408
+that we downloaded and put it
+into this folder we just created
+
+04c86a80-d0df-4b93-aa26-7efc585dca3f-2
+00:01:12.408 --> 00:01:15.760
+and we can see that we have the
+zipped folder here.
+
+9a9fb8f3-6222-4d30-9680-65d4d8a82772-0
+00:01:16.640 --> 00:01:22.290
+And so what we're going to need
+to do is unzip this folder and
+
+9a9fb8f3-6222-4d30-9680-65d4d8a82772-1
+00:01:22.290 --> 00:01:28.120
+so to do that we can right click
+on it and go on to extract all.
+
+6116f413-a161-4446-8cf6-2912901e1075-0
+00:01:30.680 --> 00:01:34.466
+And when we get this pop up come
+up you can just delete the part
+
+6116f413-a161-4446-8cf6-2912901e1075-1
+00:01:34.466 --> 00:01:38.019
+that has the name of the folder
+because this creates another
+
+6116f413-a161-4446-8cf6-2912901e1075-2
+00:01:38.019 --> 00:01:40.000
+folder that we don't really
+need.
+
+c6e3731e-1abd-4e81-911b-b2e7976f0cd0-0
+00:01:40.000 --> 00:01:42.960
+So we can just get rid of this
+and click extract.
+
+4fe8bf4e-8bb3-47ea-b087-9681bc996bb8-0
+00:01:51.690 --> 00:01:56.773
+So now we can see that we have a
+unzipped folder and our zipped
+
+4fe8bf4e-8bb3-47ea-b087-9681bc996bb8-1
+00:01:56.773 --> 00:01:57.330
+folder.
+
+146d0cb7-b186-4680-a748-d2bd3cfca7ef-0
+00:01:57.810 --> 00:02:03.474
+So if we go into the unzipped
+one, now we can see all the
+
+146d0cb7-b186-4680-a748-d2bd3cfca7ef-1
+00:02:03.474 --> 00:02:09.823
+materials here that we're going
+to use within this course and we
+
+146d0cb7-b186-4680-a748-d2bd3cfca7ef-2
+00:02:09.823 --> 00:02:15.488
+can just delete the zipped one
+because we don't need that
+
+146d0cb7-b186-4680-a748-d2bd3cfca7ef-3
+00:02:15.488 --> 00:02:16.269
+anymore.
+
+631e29f9-3640-4bc8-8d95-3ed05a8b7761-0
+00:02:21.070 --> 00:02:24.733
+An important thing to do is just
+make sure that all your folders
+
+631e29f9-3640-4bc8-8d95-3ed05a8b7761-1
+00:02:24.733 --> 00:02:27.270
+are named clearly so you know
+what they are.
+
+0ef12359-56fd-48ff-9d8e-34d9da90c34e-0
+00:02:27.630 --> 00:02:31.227
+So we're going to click on this
+and then click again to change
+
+0ef12359-56fd-48ff-9d8e-34d9da90c34e-1
+00:02:31.227 --> 00:02:34.539
+the name and we'll call it
+materials so we know what this
+
+0ef12359-56fd-48ff-9d8e-34d9da90c34e-2
+00:02:34.539 --> 00:02:35.110
+folder is.
+
+6eaba7a4-1dab-4acc-b23e-6e7997cbe84b-0
+00:02:36.560 --> 00:02:40.801
+And so now we have our intro
+QGIS folder and we have our
+
+6eaba7a4-1dab-4acc-b23e-6e7997cbe84b-1
+00:02:40.801 --> 00:02:42.960
+materials folder within this.

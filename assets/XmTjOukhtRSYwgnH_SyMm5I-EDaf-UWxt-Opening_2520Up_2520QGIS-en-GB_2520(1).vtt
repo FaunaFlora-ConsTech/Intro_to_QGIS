@@ -1,0 +1,255 @@
+WEBVTT
+
+d2bd687b-2724-4fe8-be76-1722d0192ed9-0
+00:00:01.710 --> 00:00:05.780
+Now we have our materials
+organised in an easy to access
+
+d2bd687b-2724-4fe8-be76-1722d0192ed9-1
+00:00:05.780 --> 00:00:10.280
+folder and hopefully you have
+downloaded QGIS we can begin our
+
+d2bd687b-2724-4fe8-be76-1722d0192ed9-2
+00:00:10.280 --> 00:00:11.280
+first project.
+
+eb18f611-291b-46da-835c-305dc620f458-0
+00:00:12.070 --> 00:00:15.854
+We're going to open up QGIS. I
+have it here on my desktop, but
+
+eb18f611-291b-46da-835c-305dc620f458-1
+00:00:15.854 --> 00:00:19.518
+if you don't just look it up in
+your computer search bar and
+
+eb18f611-291b-46da-835c-305dc620f458-2
+00:00:19.518 --> 00:00:20.540
+find where it is.
+
+3616e6fc-27fe-41dc-98a8-564717ca3c65-0
+00:00:21.370 --> 00:00:23.260
+So I'm going to click on it to
+open it up
+
+6433b48d-3b8f-40ac-af4a-4bd089b66983-0
+00:00:24.630 --> 00:00:27.594
+and this is the page you'll be
+greeted with when you open it
+
+6433b48d-3b8f-40ac-af4a-4bd089b66983-1
+00:00:27.594 --> 00:00:27.740
+up.
+
+fd2a5dca-3367-4c36-964e-ed7674909758-0
+00:00:28.390 --> 00:00:32.738
+We can go into Project Templates
+and click on New Empty Project
+
+fd2a5dca-3367-4c36-964e-ed7674909758-1
+00:00:32.738 --> 00:00:33.350
+to begin.
+
+c7e9e139-8421-4e85-ab46-e27ee982a28d-0
+00:00:36.150 --> 00:00:40.333
+The first thing we're going to
+do is save our project into the
+
+c7e9e139-8421-4e85-ab46-e27ee982a28d-1
+00:00:40.333 --> 00:00:44.317
+folder that we created before,
+so go on to the Project tab,
+
+c7e9e139-8421-4e85-ab46-e27ee982a28d-2
+00:00:44.317 --> 00:00:45.380
+click on save as
+
+443c4593-f860-4b10-bb6f-b15cff589e2a-0
+00:00:46.610 --> 00:00:50.677
+and then navigate to the folder
+we created. So for me it was in
+
+443c4593-f860-4b10-bb6f-b15cff589e2a-1
+00:00:50.677 --> 00:00:51.440
+my OneDrive,
+
+ac299115-6855-4873-b412-222bc3684a8f-0
+00:00:52.440 --> 00:00:53.660
+in my Documents
+
+ab10a314-3020-47cb-8fde-a6181997ca12-0
+00:00:54.470 --> 00:00:57.980
+and here it is intro QGIS. So
+I'm going to go into here
+
+d946ea3a-ebe3-496c-89a1-bb211cdb1cd4-0
+00:01:01.290 --> 00:01:05.070
+and I'm going to name my project
+Intro Project
+
+cd7d61ac-9f33-4b67-a319-d353b587cec9-0
+00:01:08.420 --> 00:01:09.810
+and then hit save.
+
+35e5b642-b3e4-4afa-9c67-0883254761a9-0
+00:01:13.420 --> 00:01:17.409
+And now what we're going to do
+is add a basemap into our map
+
+35e5b642-b3e4-4afa-9c67-0883254761a9-1
+00:01:17.409 --> 00:01:21.072
+project. So to do this we're
+going to need to install a
+
+35e5b642-b3e4-4afa-9c67-0883254761a9-2
+00:01:21.072 --> 00:01:25.192
+plugin called QuickMapServices
+that has a lot of basemaps that
+
+35e5b642-b3e4-4afa-9c67-0883254761a9-3
+00:01:25.192 --> 00:01:29.116
+are freely available for us to
+use. So plugins are external
+
+35e5b642-b3e4-4afa-9c67-0883254761a9-4
+00:01:29.116 --> 00:01:33.106
+software that we can add into
+QGIS. To add QuickMapServices,
+
+35e5b642-b3e4-4afa-9c67-0883254761a9-5
+00:01:33.106 --> 00:01:36.179
+we need to go into the Plugins
+tab at the top,
+
+4d0dac52-ab5f-45e2-ad35-be86b5dc7d87-0
+00:01:39.540 --> 00:01:42.100
+click on Manage and Install
+Plugins
+
+bae010a8-1566-47e6-8f6e-994ffb5a0f08-0
+00:01:44.460 --> 00:01:48.276
+which will bring this window up
+and then in the search bar we
+
+bae010a8-1566-47e6-8f6e-994ffb5a0f08-1
+00:01:48.276 --> 00:01:50.000
+can type in QuickMapServices
+
+05ac568b-3605-4b5f-97be-b24802e66ea4-0
+00:01:55.650 --> 00:01:57.900
+and here it has come up. So
+we're going to click on it
+
+f244218b-0b9f-4a28-8655-db2d29628253-0
+00:01:59.320 --> 00:02:01.800
+and now we can click on Install
+plugin
+
+c65014df-9416-4686-837e-c7f1f5153b69-0
+00:02:07.080 --> 00:02:08.540
+and wait for it to load up.
+
+df4caf0a-d3e7-40b7-b140-977e78c47720-0
+00:02:09.750 --> 00:02:14.409
+OK great, so now it's loaded up.
+We can go and access this plugin
+
+df4caf0a-d3e7-40b7-b140-977e78c47720-1
+00:02:14.409 --> 00:02:18.857
+by either clicking on the globe
+icon here, if we hover over it
+
+df4caf0a-d3e7-40b7-b140-977e78c47720-2
+00:02:18.857 --> 00:02:21.470
+we can see it's for
+QuickMapServices
+
+8e1b1dc1-297f-4681-8919-8c6102c6ceab-0
+00:02:22.170 --> 00:02:23.830
+or we can go into the web tab
+
+4d0f03bf-4557-4ab9-9aca-30fab41f587a-0
+00:02:25.430 --> 00:02:27.450
+and here we can see our plugin.
+
+ffbc5d27-2ddb-4ac2-876c-f08216b2f785-0
+00:02:29.210 --> 00:02:34.770
+So at the moment we have access
+to some NASA data and OSM data.
+
+ffbc5d27-2ddb-4ac2-876c-f08216b2f785-1
+00:02:34.770 --> 00:02:38.940
+We can access even more by going
+into Settings,
+
+2502457f-aff9-425f-82fc-0498267f7b78-0
+00:02:40.900 --> 00:02:43.250
+clicking on the More Services
+tab,
+
+ae0d6b67-78ba-4839-a15f-217702398554-0
+00:02:44.130 --> 00:02:47.915
+and then the Get Contributed
+pack. So we're going to click on
+
+ae0d6b67-78ba-4839-a15f-217702398554-1
+00:02:47.915 --> 00:02:51.518
+that and wait for it to load up.
+There we go, we've got it
+
+ae0d6b67-78ba-4839-a15f-217702398554-2
+00:02:51.518 --> 00:02:52.740
+downloaded here now.
+
+caaca6ff-458b-4004-a84a-49ac68c7080c-0
+00:02:54.490 --> 00:02:58.696
+So now if we go back to our
+QuickMapServices, so in web, and
+
+caaca6ff-458b-4004-a84a-49ac68c7080c-1
+00:02:58.696 --> 00:03:03.039
+then click back on the tab, we
+can now see that we have access
+
+caaca6ff-458b-4004-a84a-49ac68c7080c-2
+00:03:03.039 --> 00:03:04.350
+to a lot more data.
+
+fa0841c6-4b1c-4da2-9a53-f209eb03e054-0
+00:03:06.050 --> 00:03:09.637
+So we're going to load up a base
+map from ESRI. So we'll go into
+
+fa0841c6-4b1c-4da2-9a53-f209eb03e054-1
+00:03:09.637 --> 00:03:10.300
+the ESRI tab
+
+e0fb7c39-d300-4be1-a545-660334153848-0
+00:03:10.970 --> 00:03:14.669
+and we're going to choose ESRI
+standard. So just click on this
+
+e0fb7c39-d300-4be1-a545-660334153848-1
+00:03:14.669 --> 00:03:18.486
+and there you go. It's going to
+load up. So we have our base map
+
+e0fb7c39-d300-4be1-a545-660334153848-2
+00:03:18.486 --> 00:03:22.009
+in our project, and now that
+we've added something into our
+
+e0fb7c39-d300-4be1-a545-660334153848-3
+00:03:22.009 --> 00:03:23.359
+project, let's hit save
+
+5150e196-5859-49ce-ad8a-2d049b2044ed-0
+00:03:24.130 --> 00:03:26.759
+and make sure that we save our
+changes because we're going to
+
+5150e196-5859-49ce-ad8a-2d049b2044ed-1
+00:03:26.759 --> 00:03:28.880
+be using this project for the
+rest of the course.

@@ -1,0 +1,700 @@
+WEBVTT
+
+0f08fb13-e5d2-4cec-b393-6b5280a2aef5-0
+00:00:03.080 --> 00:00:07.871
+Now we've opened up QGIS and
+we've had some time to get used
+
+0f08fb13-e5d2-4cec-b393-6b5280a2aef5-1
+00:00:07.871 --> 00:00:11.720
+to the controls navigating
+around our map frame.
+
+a6480300-8ad9-492c-bc15-82e782d98f74-0
+00:00:11.960 --> 00:00:15.440
+Let's take a look at how this
+software is laid out.
+
+d5286391-7099-42e3-8ab6-329624350e62-0
+00:00:16.560 --> 00:00:20.520
+And so QGIS is split into some
+main panels.
+
+c135f016-9163-4892-a7f7-a9081395625d-0
+00:00:21.160 --> 00:00:26.699
+We have the browser panel here
+on the left and underneath we've
+
+c135f016-9163-4892-a7f7-a9081395625d-1
+00:00:26.699 --> 00:00:32.239
+got the layer list and then at
+the top we have our menu bar and
+
+c135f016-9163-4892-a7f7-a9081395625d-2
+00:00:32.239 --> 00:00:36.999
+our toolbars and then our map is
+within our map frame.
+
+b98d70d5-edfc-41f9-a457-a0f0def64d9c-0
+00:00:37.960 --> 00:00:41.800
+And last of all at the bottom we
+have our status bar.
+
+5a822817-f906-40f1-8882-5eb2b3bd5f17-0
+00:00:42.880 --> 00:00:47.040
+So let's take a look at the menu
+and toolbars to begin with.
+
+748ad9f9-4fab-4925-b451-e896ed3a3e6a-0
+00:00:50.040 --> 00:00:53.888
+The toolbar is where we have
+quick buttons for accessing the
+
+748ad9f9-4fab-4925-b451-e896ed3a3e6a-1
+00:00:53.888 --> 00:00:56.160
+tools to work with our data
+layers.
+
+d4c65a6a-af3f-42b4-9a04-2e7731363ea8-0
+00:00:56.560 --> 00:01:00.047
+The buttons here are actually
+changeable, so we can right
+
+d4c65a6a-af3f-42b4-9a04-2e7731363ea8-1
+00:01:00.047 --> 00:01:03.715
+click on the toolbar here and
+then we can change what panels
+
+d4c65a6a-af3f-42b4-9a04-2e7731363ea8-2
+00:01:03.715 --> 00:01:05.519
+or toolbars we have turned on.
+
+be73ee5a-bb4c-41c6-9da1-c65b0bc86cd3-0
+00:01:05.880 --> 00:01:08.800
+So the panels are the other
+windows that we can see.
+
+1051d3df-8383-49b6-ac04-f0922034774b-0
+00:01:08.800 --> 00:01:12.317
+So our layers list for example,
+we could turn that off and then
+
+1051d3df-8383-49b6-ac04-f0922034774b-1
+00:01:12.317 --> 00:01:15.120
+we can see that it's disappeared
+here on the left.
+
+df0b4761-5fc6-4092-b878-9e7ac50c305e-0
+00:01:15.560 --> 00:01:17.960
+So we just right click again up
+here.
+
+bcdabcbc-ea69-40f7-b244-ab042c88069b-0
+00:01:17.960 --> 00:01:22.967
+We can turn that back on and
+then the toolbars, these are all
+
+bcdabcbc-ea69-40f7-b244-ab042c88069b-1
+00:01:22.967 --> 00:01:26.440
+the tools that we have within
+our toolbar.
+
+6eb652e0-7b11-431c-81c9-d7f1a2b71c50-0
+00:01:26.440 --> 00:01:28.360
+So we can turn these on and off
+as well.
+
+b1fc7220-4f9a-4684-85db-da06ec88a0e7-0
+00:01:28.560 --> 00:01:31.314
+So for example, the map
+navigation toolbar, these are
+
+b1fc7220-4f9a-4684-85db-da06ec88a0e7-1
+00:01:31.314 --> 00:01:34.476
+the buttons here that we've been
+using to navigate around our
+
+b1fc7220-4f9a-4684-85db-da06ec88a0e7-2
+00:01:34.476 --> 00:01:34.680
+map.
+
+d0e66dd3-77a8-4588-ba10-cf8d0a59b6e1-0
+00:01:35.040 --> 00:01:39.380
+We could turn this toolbar off
+and then we can see that those
+
+d0e66dd3-77a8-4588-ba10-cf8d0a59b6e1-1
+00:01:39.380 --> 00:01:40.640
+buttons disappear.
+
+95de2f68-5a14-47d8-ad72-3c70d41003f7-0
+00:01:46.520 --> 00:01:50.297
+We have a menu tab at the top of
+the tool boxes here and we have
+
+95de2f68-5a14-47d8-ad72-3c70d41003f7-1
+00:01:50.297 --> 00:01:53.843
+lots of different tabs which we
+can click on and have a drop
+
+95de2f68-5a14-47d8-ad72-3c70d41003f7-2
+00:01:53.843 --> 00:01:57.040
+down of choices for things to do
+within that category.
+
+015280c4-ad20-4ad5-ab96-2a6424f4678a-0
+00:01:57.560 --> 00:01:59.560
+We'll take a look at project to
+start with.
+
+d5d23103-2a0e-40b3-8f81-07c3fa961123-0
+00:01:59.680 --> 00:02:03.079
+So this is similar to project
+within ArcGIS Pro if you're
+
+d5d23103-2a0e-40b3-8f81-07c3fa961123-1
+00:02:03.079 --> 00:02:06.596
+familiar with that software, or
+it's pretty similar to file
+
+d5d23103-2a0e-40b3-8f81-07c3fa961123-2
+00:02:06.596 --> 00:02:08.120
+within Microsoft programs.
+
+1a0515f5-d934-4636-8e37-551d670f7740-0
+00:02:08.440 --> 00:02:12.920
+So in here we could start a new
+project, open an existing one.
+
+19a317de-aa47-42af-a81a-b2d1f5fd7df0-0
+00:02:13.120 --> 00:02:16.080
+We've got our Save and Save As
+options.
+
+ccfcbf06-72f7-4a79-97e4-e94fbb9d55ba-0
+00:02:16.720 --> 00:02:23.082
+We also have more options in
+here like accessing our project
+
+ccfcbf06-72f7-4a79-97e4-e94fbb9d55ba-1
+00:02:23.082 --> 00:02:29.444
+properties, exporting our map or
+project, and creating a new
+
+ccfcbf06-72f7-4a79-97e4-e94fbb9d55ba-2
+00:02:29.444 --> 00:02:30.800
+print layout.
+
+85813a8f-1b4e-4edd-9d33-c2ae3a67731d-0
+00:02:39.280 --> 00:02:41.040
+Now let's look at the Edit tab.
+
+e23f7f6a-0832-436e-8092-a1ee4c74d4b5-0
+00:02:41.640 --> 00:02:46.120
+So Edit is also similar to the
+Edit tab in Arcgis Pro.
+
+adf92824-2725-4dbf-a324-227c401224bb-0
+00:02:46.440 --> 00:02:49.760
+This is where we can edit our
+data layers once we've added
+
+adf92824-2725-4dbf-a324-227c401224bb-1
+00:02:49.760 --> 00:02:51.280
+some data into our project.
+
+781ddd38-ddcf-49d1-9916-f5a8e7f74415-0
+00:02:52.160 --> 00:02:55.080
+We have copy and paste functions
+here.
+
+81713f91-1e2d-4c9f-b13d-ea2a1ce24891-0
+00:02:56.080 --> 00:03:01.549
+We've got buttons to add, move
+or delete features and we have
+
+81713f91-1e2d-4c9f-b13d-ea2a1ce24891-1
+00:03:01.549 --> 00:03:05.960
+some other feature editing tools
+as well in here.
+
+dd4798d2-051a-467d-8b79-b1d66825ab6b-0
+00:03:05.960 --> 00:03:14.267
+In the View tab, we have some of
+the same map navigation buttons
+
+dd4798d2-051a-467d-8b79-b1d66825ab6b-1
+00:03:14.267 --> 00:03:16.440
+we've been using.
+
+678b5a4d-5108-4c54-a322-bd909f01571c-0
+00:03:16.680 --> 00:03:21.400
+So the Pan map and also Zoom In
+and zoom out options.
+
+5b0ef6af-d137-4603-ad1c-ced8a1faa41f-0
+00:03:22.480 --> 00:03:27.265
+We have some measure tools in
+here as well, and we also can
+
+5b0ef6af-d137-4603-ad1c-ced8a1faa41f-1
+00:03:27.265 --> 00:03:31.970
+add decorations to our map so
+these are like grid lines or
+
+5b0ef6af-d137-4603-ad1c-ced8a1faa41f-2
+00:03:31.970 --> 00:03:35.560
+scale bars that we can add to
+our map frame.
+
+1c20f937-52bb-4fb5-b0fe-b3bfece44d84-0
+00:03:36.120 --> 00:03:39.345
+This isn't where we would go to
+add these elements on a map that
+
+1c20f937-52bb-4fb5-b0fe-b3bfece44d84-1
+00:03:39.345 --> 00:03:41.480
+we're preparing to export or
+print though.
+
+19fefec0-1e4e-4b25-8b48-8fe4898d0492-0
+00:03:42.440 --> 00:03:45.000
+You would need to create a print
+layout to do that.
+
+a227c434-411d-4db8-bf63-d95a869f1dbd-0
+00:03:45.120 --> 00:03:48.320
+We'll go over how to do this
+within another video tutorial
+
+c776ed14-eed5-4580-9563-1ee9ff36a782-0
+00:03:48.320 --> 00:03:53.070
+within this course. And in view,
+we can also create a spatial
+
+c776ed14-eed5-4580-9563-1ee9ff36a782-1
+00:03:53.070 --> 00:03:53.760
+bookmark.
+
+4126b383-69af-4957-876e-fd7e2530d001-0
+00:03:54.000 --> 00:03:57.480
+So this is where we can save a
+view within our map.
+
+3375a662-e09c-454f-ba06-1f353e828455-0
+00:03:57.840 --> 00:04:02.300
+So for example, if we were
+focusing on Italy, we could zoom
+
+3375a662-e09c-454f-ba06-1f353e828455-1
+00:04:02.300 --> 00:04:06.240
+in on Italy here and have it
+centred within our map.
+
+f0524186-5c75-46b0-968f-a3533ae97fce-0
+00:04:06.480 --> 00:04:09.260
+And we want to save this view
+because we want to go back to
+
+f0524186-5c75-46b0-968f-a3533ae97fce-1
+00:04:09.260 --> 00:04:09.400
+it.
+
+404628ab-893b-468c-a195-b7a388aee00b-0
+00:04:09.800 --> 00:04:16.197
+So to do that we can go back
+into view, click on new spatial
+
+404628ab-893b-468c-a195-b7a388aee00b-1
+00:04:16.197 --> 00:04:18.400
+bookmark and name it.
+
+21b31198-20d8-4f30-a57d-4da01df9b3c0-0
+00:04:18.400 --> 00:04:23.410
+So we'll just name it Italy and
+then we can choose whether we
+
+21b31198-20d8-4f30-a57d-4da01df9b3c0-1
+00:04:23.410 --> 00:04:26.400
+want to save it into user
+bookmarks.
+
+d63bce28-f7df-47ab-803a-6805639e8d44-0
+00:04:26.680 --> 00:04:31.655
+So this will save it into QGIS
+to use in every project that we
+
+d63bce28-f7df-47ab-803a-6805639e8d44-1
+00:04:31.655 --> 00:04:36.000
+work in, or we could also save
+it in Project Bookmark.
+
+f4278e53-1f5e-448c-b0f1-d4c1dc36de15-0
+00:04:36.240 --> 00:04:41.290
+So this will save it for just
+your current project to be able
+
+f4278e53-1f5e-448c-b0f1-d4c1dc36de15-1
+00:04:41.290 --> 00:04:42.920
+to access that view.
+
+33a61888-f70f-4d6d-b1cd-d5b10505be55-0
+00:04:43.360 --> 00:04:47.181
+So we'll just save it into our
+project bookmarks and then click
+
+33a61888-f70f-4d6d-b1cd-d5b10505be55-1
+00:04:47.181 --> 00:04:47.480
+save.
+
+5609c147-8516-4650-b580-2b5625fd9adc-0
+00:04:48.640 --> 00:04:51.982
+And then if we take a look in
+our browser window on the left,
+
+5609c147-8516-4650-b580-2b5625fd9adc-1
+00:04:51.982 --> 00:04:54.840
+we can see we have a tab here
+for Spatial Bookmarks.
+
+f6e31b73-4102-4d9d-a91f-e9d4e76854f4-0
+00:04:55.360 --> 00:04:58.280
+So we can click on the arrow to
+open it up.
+
+72867ef5-8c48-409c-a41f-4cdc78253a06-0
+00:04:58.680 --> 00:05:02.252
+And then if we go into Project
+Bookmarks, here is our Italy
+
+72867ef5-8c48-409c-a41f-4cdc78253a06-1
+00:05:02.252 --> 00:05:03.920
+bookmark that we've created.
+
+7871413e-4494-4e73-855c-e1eba0eb2bfb-0
+00:05:04.480 --> 00:05:07.733
+So if we were to end up in a
+different place in our map and
+
+7871413e-4494-4e73-855c-e1eba0eb2bfb-1
+00:05:07.733 --> 00:05:11.204
+we wanted to go back to the view
+that we saved, we just need to
+
+7871413e-4494-4e73-855c-e1eba0eb2bfb-2
+00:05:11.204 --> 00:05:14.621
+click on this in our browser and
+it takes us back to this view
+
+7871413e-4494-4e73-855c-e1eba0eb2bfb-3
+00:05:14.621 --> 00:05:15.760
+that we had of Italy.
+
+1fe906e3-c4f7-42ba-a20d-7c0376112ff5-0
+00:05:16.600 --> 00:05:21.240
+So pause this video here and
+have a go at saving your own
+
+1fe906e3-c4f7-42ba-a20d-7c0376112ff5-1
+00:05:21.240 --> 00:05:25.480
+bookmark for any country or
+location of your choice.
+
+b6b528cc-f139-41ee-be16-8c522b655702-0
+00:05:25.480 --> 00:05:30.481
+In view, we also have options
+for showing or hiding layers,
+
+b6b528cc-f139-41ee-be16-8c522b655702-1
+00:05:30.481 --> 00:05:35.733
+and we can also turn our panels
+or toolbars on and off in here
+
+b6b528cc-f139-41ee-be16-8c522b655702-2
+00:05:35.733 --> 00:05:36.400
+as well.
+
+629d8a7d-e4bb-41b6-81ac-a5ff8f95fa09-0
+00:05:38.120 --> 00:05:40.400
+And next we'll take a look at
+the Layer tab.
+
+6862bdd8-ed84-487e-bfd3-7e73454fd34f-0
+00:05:41.960 --> 00:05:47.092
+So in layer we have the Data
+Source Manager where we can have
+
+6862bdd8-ed84-487e-bfd3-7e73454fd34f-1
+00:05:47.092 --> 00:05:52.141
+access for opening all of our
+file based data, our databases
+
+6862bdd8-ed84-487e-bfd3-7e73454fd34f-2
+00:05:52.141 --> 00:05:53.879
+and our web services.
+
+ffb3b53b-68d7-4a17-8c33-320a7e9afdfd-0
+00:05:55.280 --> 00:05:58.880
+We can use Layer to also add and
+create data layers here.
+
+eec77dc8-5632-4919-8359-7979030737b0-0
+00:05:58.880 --> 00:06:04.989
+We have options for copying and
+pasting data layers, and we can
+
+eec77dc8-5632-4919-8359-7979030737b0-1
+00:06:04.989 --> 00:06:11.003
+open our attribute table for our
+layers and also look at layer
+
+eec77dc8-5632-4919-8359-7979030737b0-2
+00:06:11.003 --> 00:06:16.635
+properties here which we'll be
+going over later on in this
+
+eec77dc8-5632-4919-8359-7979030737b0-3
+00:06:16.635 --> 00:06:22.839
+course. Looking at settings, we
+have Style Manager here and this
+
+eec77dc8-5632-4919-8359-7979030737b0-4
+00:06:22.839 --> 00:06:28.280
+is where we can manage and
+create styles for the symbols
+
+eec77dc8-5632-4919-8359-7979030737b0-5
+00:06:28.280 --> 00:06:31.239
+that represent our data layers.
+
+1219d949-6275-431f-94f7-45b4985fdae8-0
+00:06:31.760 --> 00:06:36.281
+We can also create custom
+projections in here and we have
+
+1219d949-6275-431f-94f7-45b4985fdae8-1
+00:06:36.281 --> 00:06:39.400
+options for setting keyboard
+shortcuts.
+
+ebb8d5a9-a7d5-40bf-b95f-faf494ccaeb9-0
+00:06:40.280 --> 00:06:44.617
+In the options window we can
+choose specific preferences for
+
+ebb8d5a9-a7d5-40bf-b95f-faf494ccaeb9-1
+00:06:44.617 --> 00:06:47.960
+how we want our QGIS platform to
+look and run.
+
+3568da97-f08f-4007-a250-bb45e84d8733-0
+00:06:48.920 --> 00:06:53.270
+We've already taken a look at
+Plug Insurance, so this is where
+
+3568da97-f08f-4007-a250-bb45e84d8733-1
+00:06:53.270 --> 00:06:57.000
+we can manage and install
+external software for QGIS.
+
+1b453605-87cc-437e-9a62-b4a0665ac06e-0
+00:06:57.000 --> 00:06:59.240
+And Python Console allows us to
+run script.
+
+d71bceed-efc0-4fc4-91d9-81d0f07a4e2f-0
+00:07:00.480 --> 00:07:06.229
+The Vector tab has all of our
+tools for our vector data layers
+
+d71bceed-efc0-4fc4-91d9-81d0f07a4e2f-1
+00:07:06.229 --> 00:07:11.979
+and we have all the options here
+for vector data and in raster
+
+d71bceed-efc0-4fc4-91d9-81d0f07a4e2f-2
+00:07:11.979 --> 00:07:17.272
+it's the same but for our raster
+data layers. We have the
+
+d71bceed-efc0-4fc4-91d9-81d0f07a4e2f-3
+00:07:17.272 --> 00:07:22.748
+database tab which has our
+database manager in where we can
+
+d71bceed-efc0-4fc4-91d9-81d0f07a4e2f-4
+00:07:22.748 --> 00:07:28.498
+add and manage our geodatabases
+and then in web we can see our
+
+d71bceed-efc0-4fc4-91d9-81d0f07a4e2f-5
+00:07:28.498 --> 00:07:29.319
+plugins. 
+
+fec2ca1f-3def-4257-9e5d-d2b782a9b822-0
+00:07:29.320 --> 00:07:33.080
+In Mesh, we can perform mesh
+layer calculations and in
+
+fec2ca1f-3def-4257-9e5d-d2b782a9b822-1
+00:07:33.080 --> 00:07:35.200
+processing we have our toolbox.
+
+a9781967-d519-4f80-90e4-cf32b4419592-0
+00:07:35.200 --> 00:07:38.847
+So this is where we can access
+all of our geoprocessing tools
+
+a9781967-d519-4f80-90e4-cf32b4419592-1
+00:07:38.847 --> 00:07:41.200
+that we might need within our
+projects.
+
+9680b424-1b0d-4963-b6b8-4646df2102bf-0
+00:07:41.920 --> 00:07:44.840
+The help tab is pretty
+self-explanatory.
+
+e4f06875-94c2-4d9e-a852-caf6f6629c16-0
+00:07:45.120 --> 00:07:49.957
+We have the help contents in
+here which takes us to an online
+
+e4f06875-94c2-4d9e-a852-caf6f6629c16-1
+00:07:49.957 --> 00:07:54.482
+QGIS help page and underneath
+our menu we have all of our
+
+e4f06875-94c2-4d9e-a852-caf6f6629c16-2
+00:07:54.482 --> 00:07:59.397
+toolbars and as I said, this is
+customizable to whatever tools
+
+e4f06875-94c2-4d9e-a852-caf6f6629c16-3
+00:07:59.397 --> 00:08:02.439
+that you want to have quick
+access to.
+
+dd3b67b5-13b9-462b-bf5e-7b7cc373662e-0
+00:08:04.200 --> 00:08:07.400
+Next we'll take a look at the
+browser panel on the left.
+
+434722ef-cc68-4221-a150-332a76c0a477-0
+00:08:08.040 --> 00:08:12.079
+So in here this is where we can
+navigate to our connected
+
+434722ef-cc68-4221-a150-332a76c0a477-1
+00:08:12.079 --> 00:08:16.328
+directories and folders and we
+can use this to add data into
+
+434722ef-cc68-4221-a150-332a76c0a477-2
+00:08:16.328 --> 00:08:19.880
+our map frame and also to
+connect to geodatabases.
+
+33937338-0b20-4861-929f-294039d461b4-0
+00:08:20.960 --> 00:08:23.732
+We have the layers list
+underneath and so this is where
+
+33937338-0b20-4861-929f-294039d461b4-1
+00:08:23.732 --> 00:08:26.603
+we can see all of our data
+layers that we have within our
+
+33937338-0b20-4861-929f-294039d461b4-2
+00:08:26.603 --> 00:08:27.000
+project.
+
+768b5c7a-7c97-4542-8a68-9bd9da056cb8-0
+00:08:27.400 --> 00:08:30.416
+At the moment we can only see
+our basemap because this is the
+
+768b5c7a-7c97-4542-8a68-9bd9da056cb8-1
+00:08:30.416 --> 00:08:32.120
+only thing we have in our
+project.
+
+473b2427-7eaf-49a3-b17c-af773660f30a-0
+00:08:32.480 --> 00:08:35.706
+But once we add some more data
+in, it will come up within the
+
+473b2427-7eaf-49a3-b17c-af773660f30a-1
+00:08:35.706 --> 00:08:36.800
+the layers list here.
+
+fb95b80b-82bd-4f8e-91c3-e07f61f7eae8-0
+00:08:37.400 --> 00:08:40.855
+We can right click on the data
+layers within here and then we
+
+fb95b80b-82bd-4f8e-91c3-e07f61f7eae8-1
+00:08:40.855 --> 00:08:43.865
+can see a menu with extra
+options particular for that
+
+fb95b80b-82bd-4f8e-91c3-e07f61f7eae8-2
+00:08:43.865 --> 00:08:44.200
+layer.
+
+3ff46ae6-429f-49ac-b4f3-4dfdaa8794ff-0
+00:08:47.880 --> 00:08:50.680
+The next panel to mention is the
+map canvas.
+
+7283bc89-cf8f-4f7f-b9be-5ae457399175-0
+00:08:50.680 --> 00:08:51.880
+This is straightforward.
+
+7e66994e-8816-48d9-b1d2-8f4e38f72fde-0
+00:08:51.880 --> 00:08:55.356
+So this is where we see our data
+displayed and we can navigate,
+
+7e66994e-8816-48d9-b1d2-8f4e38f72fde-1
+00:08:55.356 --> 00:08:57.040
+zoom and interact with it here.
+
+38a7736a-b14d-45e5-a051-59eda199c5fa-0
+00:08:57.880 --> 00:09:00.680
+And the last thing to mention is
+the status bar at the bottom.
+
+b7a98b3e-d4db-48e1-a5ca-5ba0a61697af-0
+00:09:00.680 --> 00:09:03.600
+So this shows us the current
+information about our map.
+
+460c4c53-76dc-46ee-b4c9-d2a4a1527959-0
+00:09:04.080 --> 00:09:09.362
+We have the coordinates of our
+cursor, for example, and it also
+
+460c4c53-76dc-46ee-b4c9-d2a4a1527959-1
+00:09:09.362 --> 00:09:14.727
+shows us the map scale, the zoom
+extent, the rotation and in the
+
+460c4c53-76dc-46ee-b4c9-d2a4a1527959-2
+00:09:14.727 --> 00:09:19.680
+corner we can see the coordinate
+system that our map is in.
+
+295846d5-b9d7-46b8-a8dc-d27788c8efe1-0
+00:09:20.360 --> 00:09:23.956
+And so there you go, that's the
+main layout of QGIS where to
+
+295846d5-b9d7-46b8-a8dc-d27788c8efe1-1
+00:09:23.956 --> 00:09:27.789
+access the different buttons and
+what each window you can see is
+
+295846d5-b9d7-46b8-a8dc-d27788c8efe1-2
+00:09:27.789 --> 00:09:28.320
+used for.

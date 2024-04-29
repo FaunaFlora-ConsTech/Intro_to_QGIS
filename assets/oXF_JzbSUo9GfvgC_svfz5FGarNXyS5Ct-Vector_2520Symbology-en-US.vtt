@@ -1,0 +1,347 @@
+WEBVTT
+
+6781ffdc-32ba-4f14-a8c1-e41294cd896f-0
+00:00:01.720 --> 00:00:05.377
+Now we have taken a look at our
+data layer attributes and
+
+6781ffdc-32ba-4f14-a8c1-e41294cd896f-1
+00:00:05.377 --> 00:00:09.097
+properties and hopefully you
+have changed the names of all
+
+6781ffdc-32ba-4f14-a8c1-e41294cd896f-2
+00:00:09.097 --> 00:00:12.440
+your layers so they're nice and
+clear what they are.
+
+8f640d98-3d55-4807-aaea-713b48dd4047-0
+00:00:12.720 --> 00:00:16.327
+We're going to learn how to
+change the symbology of our
+
+8f640d98-3d55-4807-aaea-713b48dd4047-1
+00:00:16.327 --> 00:00:20.385
+vector data layers in this video
+so we can turn off any of the
+
+8f640d98-3d55-4807-aaea-713b48dd4047-2
+00:00:20.385 --> 00:00:23.800
+raster layers that we have on
+the two raster layers.
+
+7a8cf2f2-8618-4c9d-8096-9565ae9793d0-0
+00:00:23.800 --> 00:00:27.061
+We can turn them off because we
+won't need them in this
+
+7a8cf2f2-8618-4c9d-8096-9565ae9793d0-1
+00:00:27.061 --> 00:00:30.672
+tutorial, and we'll just take a
+look at our three vector data
+
+7a8cf2f2-8618-4c9d-8096-9565ae9793d0-2
+00:00:30.672 --> 00:00:31.080
+layers.
+
+27a5f704-a868-43fa-8641-f3d875dbf999-0
+00:00:31.280 --> 00:00:34.743
+So we've got the biomonitoring
+points, the roads and the
+
+27a5f704-a868-43fa-8641-f3d875dbf999-1
+00:00:34.743 --> 00:00:37.600
+polygon representing the Ziama
+protected area.
+
+7145c2b0-a244-41a8-b0f1-d08498362d8e-0
+00:00:37.880 --> 00:00:41.100
+We're going to look at the
+symbology of the Ziama protected
+
+7145c2b0-a244-41a8-b0f1-d08498362d8e-1
+00:00:41.100 --> 00:00:42.120
+area in this video.
+
+18c51064-6853-412c-82d1-92e3cc4c6e2c-0
+00:00:42.800 --> 00:00:47.550
+So at the moment you can see
+we've got a pink Polygon with a
+
+18c51064-6853-412c-82d1-92e3cc4c6e2c-1
+00:00:47.550 --> 00:00:51.600
+thin black outline representing
+our protected area.
+
+f9ec5c7d-88b6-4483-95f7-6c82650c9bb8-0
+00:00:51.920 --> 00:00:53.320
+But we're going to change this.
+
+d185fca6-ec28-4fcf-b8c5-f32bd354c3be-0
+00:00:53.840 --> 00:00:57.543
+So to change the symbology we
+need to go back into our layer
+
+d185fca6-ec28-4fcf-b8c5-f32bd354c3be-1
+00:00:57.543 --> 00:00:59.000
+properties window again.
+
+91da62b4-83f5-45f8-98a4-2aa68593e784-0
+00:00:59.520 --> 00:01:01.600
+So hopefully you can remember
+how to do that.
+
+71d3457c-2200-420b-8bf2-657361d2bff4-0
+00:01:01.600 --> 00:01:05.626
+We can right click on our layer,
+so we're going to right click on
+
+71d3457c-2200-420b-8bf2-657361d2bff4-1
+00:01:05.626 --> 00:01:08.920
+the Ziama PA layer and now we
+can go into properties.
+
+f85726c4-9272-471f-9fcf-167465b358ba-0
+00:01:09.160 --> 00:01:12.676
+You can also do this though just
+by double clicking on your data
+
+f85726c4-9272-471f-9fcf-167465b358ba-1
+00:01:12.676 --> 00:01:15.760
+layer and then it brings up the
+layer properties window.
+
+8db4d73c-9870-4766-ad06-81f954a6213b-0
+00:01:19.000 --> 00:01:23.384
+So now we're in properties, we
+can go into this symbology tab
+
+8db4d73c-9870-4766-ad06-81f954a6213b-1
+00:01:23.384 --> 00:01:27.697
+and so first of all within this
+symbology tab we're going to
+
+8db4d73c-9870-4766-ad06-81f954a6213b-2
+00:01:27.697 --> 00:01:30.880
+take a look at the drop down box
+at the top.
+
+69f8c3c4-e09e-45ab-81c7-ee4361c5b7cd-0
+00:01:31.640 --> 00:01:36.278
+So this is allowing us to choose
+from a selection of symbology
+
+69f8c3c4-e09e-45ab-81c7-ee4361c5b7cd-1
+00:01:36.278 --> 00:01:36.720
+types.
+
+f50e3aaa-05fe-417d-a110-6425ebe1026d-0
+00:01:37.080 --> 00:01:40.683
+We have it as a single symbol at
+the moment which is the best way
+
+f50e3aaa-05fe-417d-a110-6425ebe1026d-1
+00:01:40.683 --> 00:01:44.068
+to represent our single Polygon,
+but sometimes you'll need to
+
+f50e3aaa-05fe-417d-a110-6425ebe1026d-2
+00:01:44.068 --> 00:01:47.290
+change this option depending on
+the data layer that you're
+
+f50e3aaa-05fe-417d-a110-6425ebe1026d-3
+00:01:47.290 --> 00:01:48.000
+working with.
+
+1d13af58-97b0-43f6-b2db-8193e7881e6f-0
+00:01:50.440 --> 00:01:54.763
+Underneath this drop down box we
+have our symbol here so this is
+
+1d13af58-97b0-43f6-b2db-8193e7881e6f-1
+00:01:54.763 --> 00:01:56.560
+going to give us a preview.
+
+df302316-ceef-4a86-adea-86482c8f6847-0
+00:01:56.560 --> 00:01:59.466
+If we change any of the
+symbology settings in here it's
+
+df302316-ceef-4a86-adea-86482c8f6847-1
+00:01:59.466 --> 00:02:02.683
+going to give us a preview of
+how it's going to look and then
+
+df302316-ceef-4a86-adea-86482c8f6847-2
+00:02:02.683 --> 00:02:05.901
+if we're happy with it, we can
+click apply and it will change
+
+df302316-ceef-4a86-adea-86482c8f6847-3
+00:02:05.901 --> 00:02:08.600
+the symbology that we have on
+our actual map frame.
+
+76850fa6-a7b4-4a8c-aec8-ddfea15ce49b-0
+00:02:10.440 --> 00:02:15.821
+Underneath we have the option
+for unit, so the size unit of
+
+76850fa6-a7b4-4a8c-aec8-ddfea15ce49b-1
+00:02:15.821 --> 00:02:21.472
+our symbol that we can change if
+we want and in opacity we can
+
+76850fa6-a7b4-4a8c-aec8-ddfea15ce49b-2
+00:02:21.472 --> 00:02:25.240
+change the how transparent our
+symbol is.
+
+53026261-9b36-4a2e-9ea2-40e63d1d2592-0
+00:02:26.120 --> 00:02:29.761
+So you can see that the preview
+at the the symbol preview is
+
+53026261-9b36-4a2e-9ea2-40e63d1d2592-1
+00:02:29.761 --> 00:02:33.462
+changing and then in this box we
+can change the colour of our
+
+53026261-9b36-4a2e-9ea2-40e63d1d2592-2
+00:02:33.462 --> 00:02:33.880
+symbol.
+
+66e93f8f-f8c1-4974-8f32-e633d29cccbf-0
+00:02:36.160 --> 00:02:39.120
+Underneath these we have the
+favourites.
+
+e98b61c3-2b3b-4843-82f4-febe0ddd433a-0
+00:02:39.520 --> 00:02:43.022
+So this is a collection of
+gallery symbols which are pre
+
+e98b61c3-2b3b-4843-82f4-febe0ddd433a-1
+00:02:43.022 --> 00:02:45.480
+made symbology that we can
+choose from.
+
+e0b46da4-4081-481b-b994-109a6812a30b-0
+00:02:46.480 --> 00:02:48.400
+So let's have a look at what we
+have.
+
+e5b26e7f-a346-404b-81a6-59b415f1d770-0
+00:02:50.040 --> 00:02:52.720
+Let's go with the blue outline
+symbol.
+
+b3735643-46fd-46e7-8425-998fda71fecd-0
+00:02:53.960 --> 00:02:58.767
+But if you aren't happy with
+this and you wanted to change it
+
+b3735643-46fd-46e7-8425-998fda71fecd-1
+00:02:58.767 --> 00:03:03.652
+further then we can click in the
+box here where it says simple
+
+b3735643-46fd-46e7-8425-998fda71fecd-2
+00:03:03.652 --> 00:03:04.040
+line.
+
+bc563b20-b996-438c-af61-4c03c77566ca-0
+00:03:05.320 --> 00:03:09.608
+We can click on where it says
+simple line and this will bring
+
+bc563b20-b996-438c-af61-4c03c77566ca-1
+00:03:09.608 --> 00:03:11.960
+up more options for us to
+change.
+
+a967492a-433e-4dcb-9573-664181beec01-0
+00:03:12.240 --> 00:03:15.040
+So we can change the colour of
+the outline in here.
+
+ef3c03e7-3feb-4621-a9f2-25d39cc51e08-0
+00:03:15.040 --> 00:03:27.708
+Let's change it to black and we
+could also change how wide the
+
+ef3c03e7-3feb-4621-a9f2-25d39cc51e08-1
+00:03:27.708 --> 00:03:29.920
+outline is.
+
+a5c24d1c-56e1-493a-bcec-d2cca5378f19-0
+00:03:29.920 --> 00:03:33.493
+So if we apply what we've done
+already, we can see that it's
+
+a5c24d1c-56e1-493a-bcec-d2cca5378f19-1
+00:03:33.493 --> 00:03:35.720
+quite a thick outline to our
+Polygon.
+
+e2a173d0-f6b7-4879-83f9-2dcc3dc42248-0
+00:03:38.760 --> 00:03:41.200
+So let's change this to make it
+a bit thinner.
+
+105b1653-9cc1-4989-abb7-e08f8330adaa-0
+00:03:41.680 --> 00:03:45.440
+We'll go in stroke width and
+let's put it as 0.5 instead.
+
+f48f570b-cb84-42b3-a043-0db8dcf2be2f-0
+00:03:46.320 --> 00:03:50.395
+And then hit apply and we can
+see that we have a thinner
+
+f48f570b-cb84-42b3-a043-0db8dcf2be2f-1
+00:03:50.395 --> 00:03:52.040
+outline for our symbol.
+
+ea3e1e58-0858-496d-bb91-19840c9f2044-0
+00:03:52.840 --> 00:03:54.400
+And now we can click OK.
+
+516c5e82-c03a-4681-9a4a-8aaa413f0c86-0
+00:03:55.840 --> 00:04:00.252
+And so let's turn back on our
+other data layers to see how it
+
+516c5e82-c03a-4681-9a4a-8aaa413f0c86-1
+00:04:00.252 --> 00:04:00.680
+looks.
+
+bc6fceb7-9d37-4c73-aa14-518a5dfe00ca-0
+00:04:02.000 --> 00:04:04.931
+And we can see that it's
+blending in a bit with our land
+
+bc6fceb7-9d37-4c73-aa14-518a5dfe00ca-1
+00:04:04.931 --> 00:04:05.600
+cover raster.
+
+49855c9f-39de-42f4-ae76-ea4ae43a8769-0
+00:04:05.760 --> 00:04:08.588
+But don't worry about that
+because we're going to change
+
+49855c9f-39de-42f4-ae76-ea4ae43a8769-1
+00:04:08.588 --> 00:04:11.120
+how the land cover raster looks
+in the next video.
+
+75a8580a-bfee-45e9-b014-8dd2ff633f55-0
+00:04:11.440 --> 00:04:14.760
+And then our Polygon layer is
+going to stand out more.
+
+9cc42367-4b23-4431-917d-f970257dfbbf-0
+00:04:14.960 --> 00:04:17.560
+So that's how to change vector
+data symbology.

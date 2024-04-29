@@ -1,0 +1,215 @@
+WEBVTT
+
+049db7dd-5d27-409a-b5cb-d48609b4df18-0
+00:00:01.040 --> 00:00:04.880
+Now we've created our layout and
+we've added some elements onto
+
+049db7dd-5d27-409a-b5cb-d48609b4df18-1
+00:00:04.880 --> 00:00:05.360
+our map.
+
+a6b244f0-9aba-4021-8a30-ddc1a58d1751-0
+00:00:05.360 --> 00:00:09.320
+It's looking ready to go ahead
+and export it, so let's do that.
+
+5952ec97-a562-4f20-b93a-bc57458a250b-0
+00:00:09.720 --> 00:00:13.899
+First of all, what we're going
+to do is we're going to go into
+
+5952ec97-a562-4f20-b93a-bc57458a250b-1
+00:00:13.899 --> 00:00:17.680
+layout, which is next to our
+item properties here on the
+
+5952ec97-a562-4f20-b93a-bc57458a250b-2
+00:00:17.680 --> 00:00:21.925
+right, and we're going to resize
+our layout to fit the contents
+
+5952ec97-a562-4f20-b93a-bc57458a250b-3
+00:00:21.925 --> 00:00:23.120
+within our layout.
+
+fe56eace-aced-4686-a7f7-cd897894ee51-0
+00:00:23.120 --> 00:00:26.170
+And so it's just going to crop
+off all the unnecessary white
+
+fe56eace-aced-4686-a7f7-cd897894ee51-1
+00:00:26.170 --> 00:00:26.720
+background.
+
+68496781-7424-4a07-b5f4-96422117b335-0
+00:00:27.160 --> 00:00:31.050
+So to do that, scroll down to
+where it says resize layout to
+
+68496781-7424-4a07-b5f4-96422117b335-1
+00:00:31.050 --> 00:00:33.920
+content and then we can click
+resize layout.
+
+761f32e6-a5f1-4881-a935-586ef273cdb5-0
+00:00:33.920 --> 00:00:36.845
+And this is just going to crop
+out all of that unnecessary
+
+761f32e6-a5f1-4881-a935-586ef273cdb5-1
+00:00:36.845 --> 00:00:37.440
+white space.
+
+d8e0eb89-9294-4c1a-98b2-d55063c8b5d4-0
+00:00:38.280 --> 00:00:41.280
+And now we can go ahead and
+export our map.
+
+62b60b54-1c9a-43dd-8ec8-19c606ee842b-0
+00:00:41.680 --> 00:00:46.325
+So to do that, we're going to go
+up into the top menu bar and
+
+62b60b54-1c9a-43dd-8ec8-19c606ee842b-1
+00:00:46.325 --> 00:00:50.821
+click on Layout, and then down
+towards the bottom we've got
+
+62b60b54-1c9a-43dd-8ec8-19c606ee842b-2
+00:00:50.821 --> 00:00:52.319
+some export options.
+
+1125e945-e46d-4f9b-a89c-d84a629398c7-0
+00:00:52.560 --> 00:00:57.073
+We're going to click Export as
+image and now we're going to
+
+1125e945-e46d-4f9b-a89c-d84a629398c7-1
+00:00:57.073 --> 00:01:01.663
+navigate to the folder that we
+created and save our exported
+
+1125e945-e46d-4f9b-a89c-d84a629398c7-2
+00:01:01.663 --> 00:01:03.920
+map into our materials folder.
+
+1ccacd9e-3bae-48eb-8a6a-fb6e58d9e671-0
+00:01:04.160 --> 00:01:09.021
+So find that folder intro QGIS,
+go into it, go into your
+
+1ccacd9e-3bae-48eb-8a6a-fb6e58d9e671-1
+00:01:09.021 --> 00:01:13.200
+materials folder and then let's
+name our layout.
+
+a60d6bb7-28c0-4392-b948-3626deb98513-0
+00:01:14.040 --> 00:01:17.885
+So I'm just calling it Ziama
+landscape layout and just
+
+a60d6bb7-28c0-4392-b948-3626deb98513-1
+00:01:17.885 --> 00:01:22.150
+underneath you can choose what
+kind of file type you want to
+
+a60d6bb7-28c0-4392-b948-3626deb98513-2
+00:01:22.150 --> 00:01:22.920
+save it as.
+
+2c53c4cd-456d-46d8-8020-5249f629a519-0
+00:01:23.320 --> 00:01:28.443
+So there's lots of options, but
+I'm going to stick with JPEG and
+
+2c53c4cd-456d-46d8-8020-5249f629a519-1
+00:01:28.443 --> 00:01:33.409
+now we can click save and this
+is going to bring up our export
+
+2c53c4cd-456d-46d8-8020-5249f629a519-2
+00:01:33.409 --> 00:01:34.040
+options.
+
+5b5de8d6-f339-4007-97c7-df211a518a94-0
+00:01:34.240 --> 00:01:37.760
+And so here we can choose things
+like export resolution.
+
+c54853bf-ead7-465f-a411-a4cbbbacdd19-0
+00:01:38.560 --> 00:01:41.080
+This is at 300 which is normally
+pretty good.
+
+c654e0ae-a5d5-42ff-8d65-6225b898dd3b-0
+00:01:41.960 --> 00:01:45.000
+It normally should be around 200
+to 300.
+
+d9a14c26-f843-491a-b2a4-f1b25f2739d9-0
+00:01:45.480 --> 00:01:49.819
+We also have options for the
+page width and heights and we
+
+d9a14c26-f843-491a-b2a4-f1b25f2739d9-1
+00:01:49.819 --> 00:01:52.320
+can keep enable anti aliasing
+on.
+
+66184fcb-75a7-434f-9fb2-ac0632b6fdfa-0
+00:01:52.320 --> 00:01:56.279
+This is just a visualisation
+effect that makes lines appear
+
+66184fcb-75a7-434f-9fb2-ac0632b6fdfa-1
+00:01:56.279 --> 00:02:00.436
+less jagged, so we'll keep that
+on and then we'll hit save and
+
+66184fcb-75a7-434f-9fb2-ac0632b6fdfa-2
+00:02:00.436 --> 00:02:02.680
+that's going to export our
+files.
+
+ec406b16-86cf-4223-b893-d7632a1a60b1-0
+00:02:02.680 --> 00:02:06.247
+So now you could go into your
+File Explorer and find where you
+
+ec406b16-86cf-4223-b893-d7632a1a60b1-1
+00:02:06.247 --> 00:02:08.400
+saved it to in your materials
+folder.
+
+58eb1fa3-9023-4418-8d4e-6320b16665fa-0
+00:02:08.600 --> 00:02:12.200
+Or we can also click the link
+that we have up here at the top.
+
+415d5cec-37da-4039-936d-5531343185e6-0
+00:02:12.560 --> 00:02:17.066
+So let's click that and this
+takes us to our materials
+
+415d5cec-37da-4039-936d-5531343185e6-1
+00:02:17.066 --> 00:02:17.640
+folder.
+
+65bdddd0-112c-4eae-ac38-cb85b168a4e0-0
+00:02:17.960 --> 00:02:22.761
+We can see our Ziama landscape
+layout, so let's click on this
+
+65bdddd0-112c-4eae-ac38-cb85b168a4e0-1
+00:02:22.761 --> 00:02:24.000
+and there we go.
+
+9bea26d2-07ca-425e-8895-111e773dfc9f-0
+00:02:24.040 --> 00:02:26.000
+That's our exported map.
+
+26097314-9694-4dcc-aa66-cc0a34bbde9e-0
+00:02:26.040 --> 00:02:29.960
+And so that's how to export your
+layout in QGIS.

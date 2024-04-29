@@ -1,0 +1,302 @@
+WEBVTT
+
+9f07af59-8520-4784-a03c-6c0a064da887-0
+00:00:01.320 --> 00:00:05.344
+Now that we've taken a look at
+how to open up our data layer
+
+9f07af59-8520-4784-a03c-6c0a064da887-1
+00:00:05.344 --> 00:00:09.434
+attribute table, we're going to
+take a look at our data layer
+
+9f07af59-8520-4784-a03c-6c0a064da887-2
+00:00:09.434 --> 00:00:10.160
+properties.
+
+2eebbce2-e8ee-40d4-9ef4-283770375945-0
+00:00:10.640 --> 00:00:14.886
+So to do this, we're going to
+look at the biomonitoring Ziama
+
+2eebbce2-e8ee-40d4-9ef4-283770375945-1
+00:00:14.886 --> 00:00:15.640
+2019 layer.
+
+8959bc5e-608b-46c8-9424-7fa39584a090-0
+00:00:15.640 --> 00:00:19.765
+We'll select this, right click,
+and then on the menu that pops
+
+8959bc5e-608b-46c8-9424-7fa39584a090-1
+00:00:19.765 --> 00:00:23.040
+up we can go to the bottom and
+choose properties.
+
+f2153a62-566e-44ac-b58e-023df9f179ed-0
+00:00:25.000 --> 00:00:28.304
+And this is going to bring up
+this layer properties window,
+
+f2153a62-566e-44ac-b58e-023df9f179ed-1
+00:00:28.304 --> 00:00:31.720
+which has all the properties
+associated with this data layer.
+
+bf2f94f7-f5de-4de5-a09b-7b6c6b23c956-0
+00:00:32.120 --> 00:00:34.960
+So we have lots of different
+tabs here that we can look at.
+
+fc713876-0a97-4356-b240-beea8a585418-0
+00:00:35.000 --> 00:00:39.134
+We're in information right now,
+which is just giving us a bit of
+
+fc713876-0a97-4356-b240-beea8a585418-1
+00:00:39.134 --> 00:00:43.268
+information about the layer like
+where it's come from, but we're
+
+fc713876-0a97-4356-b240-beea8a585418-2
+00:00:43.268 --> 00:00:45.240
+going to take a look at source.
+
+2b6ba278-48bb-4749-b96b-01ab82bf0e07-0
+00:00:45.840 --> 00:00:50.200
+So in source you can change the
+name of your data layer.
+
+5d0a1c0f-c584-44c7-b819-d1820fd436f1-0
+00:00:50.640 --> 00:00:53.651
+It's good practice to change the
+names of your data layers so
+
+5d0a1c0f-c584-44c7-b819-d1820fd436f1-1
+00:00:53.651 --> 00:00:56.760
+that they're easy to read and to
+know what you're working with.
+
+accba8c6-70c5-4f51-978e-654d6a343c66-0
+00:00:57.560 --> 00:01:00.846
+So let's change this just
+biomonitoring points so it's
+
+accba8c6-70c5-4f51-978e-654d6a343c66-1
+00:01:00.846 --> 00:01:02.400
+nice and clear what it is.
+
+e563dbae-fb76-4600-a65a-4980f48ddd75-0
+00:01:08.110 --> 00:01:11.958
+Another thing we can look at in
+our layer properties is what
+
+e563dbae-fb76-4600-a65a-4980f48ddd75-1
+00:01:11.958 --> 00:01:15.870
+coordinate system our data layer
+was collected or created in.
+
+224f1704-8d71-4cfe-bf3f-9ec05654152c-0
+00:01:16.470 --> 00:01:19.538
+We can look at this just
+underneath where it says
+
+224f1704-8d71-4cfe-bf3f-9ec05654152c-1
+00:01:19.538 --> 00:01:21.870
+assigned coordinate reference
+system.
+
+5791b8e3-a2ff-4936-88a3-d4376f08dd1d-0
+00:01:22.320 --> 00:01:27.309
+So in the box underneath this,
+it tells us that our data layer
+
+5791b8e3-a2ff-4936-88a3-d4376f08dd1d-1
+00:01:27.309 --> 00:01:30.160
+is in the coordinate system WGS
+84.
+
+dd0f421d-b68f-4ee8-870a-84b840bfe584-0
+00:01:30.840 --> 00:01:34.485
+If we want to find out a little
+bit more about this, we can
+
+dd0f421d-b68f-4ee8-870a-84b840bfe584-1
+00:01:34.485 --> 00:01:38.070
+hover our mouse over this box
+and it brings up this window
+
+dd0f421d-b68f-4ee8-870a-84b840bfe584-2
+00:01:38.070 --> 00:01:40.986
+which tells us the exact
+information about this
+
+dd0f421d-b68f-4ee8-870a-84b840bfe584-3
+00:01:40.986 --> 00:01:42.079
+coordinate system.
+
+6ec5951c-705c-4ecf-8ec6-9b6d97fa1fa6-0
+00:01:42.640 --> 00:01:47.151
+So if we look at the the first
+line within this window that's
+
+6ec5951c-705c-4ecf-8ec6-9b6d97fa1fa6-1
+00:01:47.151 --> 00:01:50.280
+come up, we can see that it says
+GEOG CRS.
+
+b3739313-76d4-4e42-9396-6860d8f2527f-0
+00:01:50.280 --> 00:01:53.773
+So this is standing for
+Geographic Coordinate system or
+
+b3739313-76d4-4e42-9396-6860d8f2527f-1
+00:01:53.773 --> 00:01:55.520
+Coordinate Reference system.
+
+45f5a92f-ccbb-4510-94f5-cdffaac3548e-0
+00:01:55.800 --> 00:02:00.822
+So it's telling us that this
+data layer is in a GCS and it's
+
+45f5a92f-ccbb-4510-94f5-cdffaac3548e-1
+00:02:00.822 --> 00:02:04.280
+also giving us the name again,
+so WGS 84.
+
+11636f83-bb89-42a8-bb2d-fb0c06b01d1d-0
+00:02:06.800 --> 00:02:10.672
+So the last thing we're going to
+look at in properties now is the
+
+11636f83-bb89-42a8-bb2d-fb0c06b01d1d-1
+00:02:10.672 --> 00:02:11.200
+metadata.
+
+1eb9d217-6dd3-4f74-a0e9-ad8df9fd690b-0
+00:02:11.520 --> 00:02:16.844
+So we're going to do this by
+clicking on the Metadata tab,
+
+1eb9d217-6dd3-4f74-a0e9-ad8df9fd690b-1
+00:02:16.844 --> 00:02:22.529
+and we can see that within this
+Metadata tab we've got lots of
+
+1eb9d217-6dd3-4f74-a0e9-ad8df9fd690b-2
+00:02:22.529 --> 00:02:26.320
+different options for adding in
+metadata.
+
+18c2664f-c0ff-48e8-8850-e81cbc8cae49-0
+00:02:27.560 --> 00:02:31.558
+But you can also see that this
+data layer doesn't have any
+
+18c2664f-c0ff-48e8-8850-e81cbc8cae49-1
+00:02:31.558 --> 00:02:32.440
+metadata yet.
+
+71196917-ea31-470c-aec2-6e932581925b-0
+00:02:33.280 --> 00:02:36.855
+Metadata is really useful when
+you're sharing data layers, as
+
+71196917-ea31-470c-aec2-6e932581925b-1
+00:02:36.855 --> 00:02:40.200
+it helps the user to understand
+what the data is showing.
+
+ce9d54af-a28e-40e2-b3a2-f0c106d1c4d2-0
+00:02:40.720 --> 00:02:44.520
+So let's add some metadata to
+our biomonitoring points.
+
+277c841c-3e7e-4ac1-adb7-a7574536cc7d-0
+00:02:46.560 --> 00:02:51.040
+So first of all, in title we can
+put biomonitoring points.
+
+9820c346-8611-4ed5-8444-32afa2e3fe92-0
+00:02:57.770 --> 00:03:02.113
+And the other thing we'll add is
+a description of our data layer
+
+9820c346-8611-4ed5-8444-32afa2e3fe92-1
+00:03:02.113 --> 00:03:03.450
+within the abstract.
+
+b4f6b962-a7f7-45b5-8512-fc1d68f9b744-0
+00:03:04.530 --> 00:03:09.850
+So in here we're going to put
+locations of biomonitoring
+
+b4f6b962-a7f7-45b5-8512-fc1d68f9b744-1
+00:03:09.850 --> 00:03:15.638
+points of species within and
+nearby the Ziama protected area,
+
+b4f6b962-a7f7-45b5-8512-fc1d68f9b744-2
+00:03:15.638 --> 00:03:21.706
+and these points were collected
+from the 14th of the 1st 2019 to
+
+b4f6b962-a7f7-45b5-8512-fc1d68f9b744-3
+00:03:21.706 --> 00:03:24.040
+the 23rd of the 1st 2020.
+
+ccb32c22-a738-4ff9-8a6a-035b6b9aea80-0
+00:03:24.800 --> 00:03:27.921
+And we'll also tell them that
+the XY coordinates of the
+
+ccb32c22-a738-4ff9-8a6a-035b6b9aea80-1
+00:03:27.921 --> 00:03:31.266
+locations are given, as well as
+the species and the type of
+
+ccb32c22-a738-4ff9-8a6a-035b6b9aea80-2
+00:03:31.266 --> 00:03:31.880
+indication.
+
+0da5a033-053e-4c7d-b185-5135d11fe31e-0
+00:03:33.840 --> 00:03:37.580
+So now if we were to send this
+data layer to someone and they
+
+0da5a033-053e-4c7d-b185-5135d11fe31e-1
+00:03:37.580 --> 00:03:40.958
+weren't sure what this data
+layer is representing, what
+
+0da5a033-053e-4c7d-b185-5135d11fe31e-2
+00:03:40.958 --> 00:03:44.939
+these points represent, they can
+check this metadata and they can
+
+0da5a033-053e-4c7d-b185-5135d11fe31e-3
+00:03:44.939 --> 00:03:48.197
+get this information and
+understand what this data is
+
+0da5a033-053e-4c7d-b185-5135d11fe31e-4
+00:03:48.197 --> 00:03:48.680
+showing.
+
+ada12f8b-367b-4640-821e-1c14b68643b6-0
+00:03:50.040 --> 00:03:54.372
+And so we'll just click the
+apply to make sure we save our
+
+ada12f8b-367b-4640-821e-1c14b68643b6-1
+00:03:54.372 --> 00:03:54.960
+changes.
+
+211cbbda-720e-4d33-97bd-7a153803c745-0
+00:03:58.000 --> 00:03:58.840
+And that's it.
+
+7fd7e66f-ce36-49c0-891d-e4437e047845-0
+00:03:58.840 --> 00:04:02.280
+That's how to look at the
+properties of your data layers.

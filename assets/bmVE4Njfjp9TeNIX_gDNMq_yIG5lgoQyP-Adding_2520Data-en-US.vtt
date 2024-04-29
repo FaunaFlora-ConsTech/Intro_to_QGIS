@@ -1,0 +1,209 @@
+WEBVTT
+
+2d32183c-d79a-4343-88ca-0d79de0b73fd-0
+00:00:01.640 --> 00:00:05.751
+Now that we've been introduced
+to the QGIS interface and we
+
+2d32183c-d79a-4343-88ca-0d79de0b73fd-1
+00:00:05.751 --> 00:00:10.274
+have our materials organised and
+ready to go, let's add some data
+
+2d32183c-d79a-4343-88ca-0d79de0b73fd-2
+00:00:10.274 --> 00:00:11.440
+into our project.
+
+d4c69838-c041-4a75-9041-c42bfbd8ce5e-0
+00:00:12.160 --> 00:00:15.507
+To do this we're going to
+utilise the browser window here
+
+d4c69838-c041-4a75-9041-c42bfbd8ce5e-1
+00:00:15.507 --> 00:00:16.200
+on the left.
+
+1056f70e-9569-45f6-bd5e-8450539dee92-0
+00:00:16.680 --> 00:00:20.716
+This browser acts as a mini File
+Explorer and so we can access
+
+1056f70e-9569-45f6-bd5e-8450539dee92-1
+00:00:20.716 --> 00:00:23.600
+our computer files and folders
+through this.
+
+9d1855a8-67ad-4ab4-8207-98e577b421e1-0
+00:00:26.360 --> 00:00:29.657
+In this browser window we can
+navigate to where we saved our
+
+9d1855a8-67ad-4ab4-8207-98e577b421e1-1
+00:00:29.657 --> 00:00:30.360
+materials to.
+
+cdb03c90-d744-4ada-a588-c7db3d251b74-0
+00:00:31.080 --> 00:00:36.170
+So I'm going to go into home
+here and now I can access my
+
+cdb03c90-d744-4ada-a588-c7db3d251b74-1
+00:00:36.170 --> 00:00:36.960
+OneDrive.
+
+ee0245ad-5c3b-46d3-b143-56a90caa3144-0
+00:00:37.480 --> 00:00:42.140
+So we can open that up using the
+arrow on the left and then in
+
+ee0245ad-5c3b-46d3-b143-56a90caa3144-1
+00:00:42.140 --> 00:00:42.880
+Documents,
+
+d4522f56-b708-4ba7-9710-3107d3a45244-0
+00:00:43.720 --> 00:00:46.739
+and then there we go, there's
+our folder we created intro
+
+d4522f56-b708-4ba7-9710-3107d3a45244-1
+00:00:46.739 --> 00:00:47.000
+QGIS.
+
+9b60df8f-0c6d-4c15-9cae-03b211588be4-0
+00:00:47.000 --> 00:00:50.840
+So let's open this up and now we
+can see our materials.
+
+ef941bc4-4d64-42ff-981c-e123c6eff145-0
+00:00:51.000 --> 00:00:53.480
+So we can open up our materials
+folder as well.
+
+ba3db56b-d245-4907-99f1-6cb96fc394ee-0
+00:00:54.280 --> 00:00:57.760
+And now we can see the materials
+within this folder.
+
+0dbe3f13-1b11-4c91-8f39-e9521f5e4452-0
+00:00:57.920 --> 00:01:00.200
+So we've got our different data
+layers here.
+
+60e21c16-3524-4884-afe4-8c96fb45ffa1-0
+00:01:03.480 --> 00:01:05.920
+We want to start adding these
+into our project.
+
+160aab4f-a0bf-46fd-be90-ee3d5b62c990-0
+00:01:06.040 --> 00:01:12.061
+And so to do that, we're going
+to click on the biomonitoring
+
+160aab4f-a0bf-46fd-be90-ee3d5b62c990-1
+00:01:12.061 --> 00:01:18.083
+Ziama 2019 points and then we
+can click and hold and drag it
+
+160aab4f-a0bf-46fd-be90-ee3d5b62c990-2
+00:01:18.083 --> 00:01:21.440
+and then drop into our map
+frame.
+
+39949a47-2eee-4249-af77-8db81747ab52-0
+00:01:23.480 --> 00:01:26.040
+And now we've added that data
+layer into our map.
+
+49849bc5-3e90-411f-a258-b305b234ce5a-0
+00:01:26.440 --> 00:01:29.851
+But you can see that we're
+really zoomed out, so we can't
+
+49849bc5-3e90-411f-a258-b305b234ce5a-1
+00:01:29.851 --> 00:01:31.440
+really see this data layer.
+
+8a8b5f85-ec0f-4815-b483-7960355419ab-0
+00:01:31.960 --> 00:01:36.120
+So to be able to see it clearly,
+we can right click on the layer
+
+8a8b5f85-ec0f-4815-b483-7960355419ab-1
+00:01:36.120 --> 00:01:40.088
+and click zoom to layer and now
+we're zoomed in on all of our
+
+8a8b5f85-ec0f-4815-b483-7960355419ab-2
+00:01:40.088 --> 00:01:43.160
+points and we can see every
+single one of them.
+
+49d8f725-88d2-4cf8-84de-e315f9b76c98-0
+00:01:46.720 --> 00:01:49.680
+We're now going to have a go at
+adding in another data layer.
+
+c6243652-f64a-47e4-9ba8-ec7868c24a19-0
+00:01:50.400 --> 00:01:53.489
+So we're going to find the Ziama
+landscape shape file, We're
+
+c6243652-f64a-47e4-9ba8-ec7868c24a19-1
+00:01:53.489 --> 00:01:56.376
+going to click on it and then
+we're going to do the same
+
+c6243652-f64a-47e4-9ba8-ec7868c24a19-2
+00:01:56.376 --> 00:01:56.680
+thing.
+
+290bde17-4cd1-41f9-9115-bfebbc12a24b-0
+00:01:56.680 --> 00:01:59.600
+We're going to drag it into our
+map canvas.
+
+34625325-1311-468a-a73a-201b735ccf24-0
+00:02:00.600 --> 00:02:05.132
+And now we have our protected
+area of Ziama added into our
+
+34625325-1311-468a-a73a-201b735ccf24-1
+00:02:05.132 --> 00:02:05.440
+map.
+
+29d4667c-68d9-455c-b347-c06cd10bed8c-0
+00:02:08.040 --> 00:02:11.395
+So we can see them on our map
+frame, but we can also see them
+
+29d4667c-68d9-455c-b347-c06cd10bed8c-1
+00:02:11.395 --> 00:02:12.640
+in our layers list now.
+
+f68c3db6-6351-4747-8d57-e52fe5bdb713-0
+00:02:13.440 --> 00:02:18.720
+And so in the layers list we can
+use the toggle boxes next to the
+
+f68c3db6-6351-4747-8d57-e52fe5bdb713-1
+00:02:18.720 --> 00:02:24.000
+names of the layers to turn them
+on and off, and we can also drag
+
+f68c3db6-6351-4747-8d57-e52fe5bdb713-2
+00:02:24.000 --> 00:02:28.880
+them up and down to decide which
+layer we want on top of the
+
+f68c3db6-6351-4747-8d57-e52fe5bdb713-3
+00:02:28.880 --> 00:02:29.360
+other.
+
+f9f8a053-b4af-48b5-b9d6-ceb9e0348e5d-0
+00:02:32.880 --> 00:02:33.360
+And there you go.
+
+9cc167d2-38df-4928-9e45-3518af382ac3-0
+00:02:33.360 --> 00:02:36.600
+That's how to add data into a
+QGIS project.

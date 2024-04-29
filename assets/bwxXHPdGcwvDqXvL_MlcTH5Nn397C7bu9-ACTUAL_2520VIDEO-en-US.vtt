@@ -1,0 +1,1012 @@
+WEBVTT
+
+e3306a2f-071a-4121-8e9a-6f80e828817c-0
+00:00:01.560 --> 00:00:05.519
+OK, so we've changed our
+symbology to how we want and our
+
+e3306a2f-071a-4121-8e9a-6f80e828817c-1
+00:00:05.519 --> 00:00:07.840
+map is starting to come
+together.
+
+d2d3b7da-592d-4d96-b6b6-d71608055b54-0
+00:00:08.080 --> 00:00:12.000
+So in this video we're going to
+prepare our map to be exported.
+
+eeb6b199-3c20-413a-ac94-01251b7fc867-0
+00:00:12.320 --> 00:00:16.482
+So to do that in QGIS we need to
+first of all create a print
+
+eeb6b199-3c20-413a-ac94-01251b7fc867-1
+00:00:16.482 --> 00:00:16.960
+layout.
+
+900aa8f5-fe64-4639-9e62-4202d080c406-0
+00:00:17.480 --> 00:00:21.977
+So we do this by going into the
+project tab at the top, going
+
+900aa8f5-fe64-4639-9e62-4202d080c406-1
+00:00:21.977 --> 00:00:26.040
+down near the bottom to where it
+says New Print Layout.
+
+897e0c22-71ce-4a70-beb5-cd346617548b-0
+00:00:26.200 --> 00:00:28.804
+We'll click on this and it's
+going to come up this window
+
+897e0c22-71ce-4a70-beb5-cd346617548b-1
+00:00:28.804 --> 00:00:30.600
+that's prompting us to name our
+layout.
+
+aad4cf72-fc83-49c8-95fe-1f77c55f4827-0
+00:00:30.840 --> 00:00:34.440
+So let's call it Ziama Landscape
+and click OK.
+
+532da337-cb66-45cd-91d0-8fab875c036e-0
+00:00:36.960 --> 00:00:40.513
+So that's going to bring up a
+new window, our Print Layout
+
+532da337-cb66-45cd-91d0-8fab875c036e-1
+00:00:40.513 --> 00:00:42.320
+window, which is a blank page.
+
+a3c53161-d6e9-43c4-a8e0-beee2ed43bf4-0
+00:00:42.840 --> 00:00:48.311
+And so we can access our map
+window again just by minimising
+
+a3c53161-d6e9-43c4-a8e0-beee2ed43bf4-1
+00:00:48.311 --> 00:00:48.760
+this.
+
+57366676-a1ce-4494-8761-38f405e54719-0
+00:00:48.760 --> 00:00:50.760
+And then we can still access our
+map.
+
+ad60383a-3da2-4273-98f1-e28d5dbce01f-0
+00:00:51.360 --> 00:00:53.680
+And then we can just go back
+into our print layout.
+
+5ef394a5-a662-4be2-824c-bafcdf7dd5b4-0
+00:00:53.680 --> 00:00:57.160
+So we can work in both of them
+just by minimising the windows.
+
+a82ed140-eaa6-48ae-a78e-7d4f8edab82c-0
+00:00:57.680 --> 00:00:59.200
+And now we're going to add our
+map.
+
+46aa7272-49b9-4b9d-bf64-9ec5849e9280-0
+00:00:59.200 --> 00:01:03.501
+So we'll do that by going into
+Add item in the top menu and
+
+46aa7272-49b9-4b9d-bf64-9ec5849e9280-1
+00:01:03.501 --> 00:01:04.720
+clicking add Map.
+
+09829f7b-5ab1-4883-b36d-8a8025d8c753-0
+00:01:05.080 --> 00:01:08.620
+And this is going to give us a
+tool that's going to let us draw
+
+09829f7b-5ab1-4883-b36d-8a8025d8c753-1
+00:01:08.620 --> 00:01:11.000
+our map onto our page wherever
+we want it.
+
+7cf42341-ca43-40e8-b96e-3582b73ff36a-0
+00:01:11.320 --> 00:01:13.600
+So draw a square for your map.
+
+88df4ece-02d3-4e2d-942c-de3628cafea0-0
+00:01:15.080 --> 00:01:18.622
+And now we can see our map has
+come up and our map is a bit
+
+88df4ece-02d3-4e2d-942c-de3628cafea0-1
+00:01:18.622 --> 00:01:20.040
+smaller than we want it.
+
+080ce328-f57c-42ad-be1c-ee3248128b0f-0
+00:01:20.400 --> 00:01:24.659
+So what we need to do is we need
+to be able to interact with our
+
+080ce328-f57c-42ad-be1c-ee3248128b0f-1
+00:01:24.659 --> 00:01:28.722
+map within this map frame, and
+to do that we have to click on
+
+080ce328-f57c-42ad-be1c-ee3248128b0f-2
+00:01:28.722 --> 00:01:32.195
+the button in the left hand
+side, which is move item
+
+080ce328-f57c-42ad-be1c-ee3248128b0f-3
+00:01:32.195 --> 00:01:32.720
+content.
+
+a6eeb007-4ac1-4f0c-ad48-5fecdd9ea5d8-0
+00:01:33.000 --> 00:01:34.480
+It's the fourth one down.
+
+5497f75b-d5ec-4675-8405-df83d6f7ff2b-0
+00:01:35.320 --> 00:01:38.871
+We could also do that by going
+into item properties if we have
+
+5497f75b-d5ec-4675-8405-df83d6f7ff2b-1
+00:01:38.871 --> 00:01:42.198
+our map selected, and there's
+also a button in there to do
+
+5497f75b-d5ec-4675-8405-df83d6f7ff2b-2
+00:01:42.198 --> 00:01:42.480
+that.
+
+7b2b037b-dfb6-421f-a2ac-a462feeca749-0
+00:01:42.640 --> 00:01:45.160
+But we'll just do it using the
+one on the left hand side.
+
+066c84a7-03ec-4a36-ac78-ea772045a6dd-0
+00:01:45.800 --> 00:01:48.914
+And now we've clicked that we
+can interact with our map, we
+
+066c84a7-03ec-4a36-ac78-ea772045a6dd-1
+00:01:48.914 --> 00:01:52.184
+can zoom it in to how we want
+and we can move it around to how
+
+066c84a7-03ec-4a36-ac78-ea772045a6dd-2
+00:01:52.184 --> 00:01:52.600
+we want.
+
+9fda060d-2e83-4d59-addb-7de51dd928a5-0
+00:01:53.080 --> 00:01:59.090
+So get that looking how you want
+it to look, and now if you
+
+9fda060d-2e83-4d59-addb-7de51dd928a5-1
+00:01:59.090 --> 00:02:05.000
+wanted to resize your map frame,
+you don't like how it is.
+
+1f1b7db0-5063-4c1c-b5b2-83277f41e137-0
+00:02:05.240 --> 00:02:08.405
+You can click on the third
+button in the toolbar, so the
+
+1f1b7db0-5063-4c1c-b5b2-83277f41e137-1
+00:02:08.405 --> 00:02:12.071
+one just above the one that we'd
+clicked on, and now you can move
+
+1f1b7db0-5063-4c1c-b5b2-83277f41e137-2
+00:02:12.071 --> 00:02:13.960
+it and resize it to how you
+want.
+
+59c11294-0291-436a-ade2-812ce3bfdb4d-0
+00:02:14.520 --> 00:02:18.034
+And the top hand button just
+lets you move around your layout
+
+59c11294-0291-436a-ade2-812ce3bfdb4d-1
+00:02:18.034 --> 00:02:21.436
+page without touching or moving
+any of the elements on your
+
+59c11294-0291-436a-ade2-812ce3bfdb4d-2
+00:02:21.436 --> 00:02:21.720
+page.
+
+0bcae89a-cf5f-4f60-b32d-16c382a7a836-0
+00:02:22.960 --> 00:02:26.915
+And now we'll take a look at the
+layout of this print layout
+
+0bcae89a-cf5f-4f60-b32d-16c382a7a836-1
+00:02:26.915 --> 00:02:27.240
+view.
+
+69b3680b-5178-4853-8cb3-9d3ad76fb4d1-0
+00:02:27.960 --> 00:02:31.590
+So it's quite similar to the map
+view that we had when we're
+
+69b3680b-5178-4853-8cb3-9d3ad76fb4d1-1
+00:02:31.590 --> 00:02:32.960
+working within our map.
+
+bc5123b0-7797-4f5c-938b-83c545138cd8-0
+00:02:33.280 --> 00:02:37.393
+We've got the same sort of
+layout with toolbars across the
+
+bc5123b0-7797-4f5c-938b-83c545138cd8-1
+00:02:37.393 --> 00:02:41.507
+top and a menu bar across the
+very top and so we'll have a
+
+bc5123b0-7797-4f5c-938b-83c545138cd8-2
+00:02:41.507 --> 00:02:46.040
+look at the different tabs that
+we have within the menu bar now.
+
+21ee5be0-f98c-4e1e-9460-d770eb04fcd4-0
+00:02:46.800 --> 00:02:50.874
+So the first one is layout and
+this is similar to project
+
+21ee5be0-f98c-4e1e-9460-d770eb04fcd4-1
+00:02:50.874 --> 00:02:52.280
+within the map view.
+
+e66463ca-f347-43f3-bfa8-c180e89368a2-0
+00:02:52.280 --> 00:02:54.760
+So this is where we could save
+our project.
+
+ad5a0778-3879-494b-b425-0f63d226224c-0
+00:02:55.040 --> 00:02:59.651
+We can create a new layout and
+within this section we can
+
+ad5a0778-3879-494b-b425-0f63d226224c-1
+00:02:59.651 --> 00:03:01.480
+export our map as well.
+
+6dc371c9-5ad6-44b7-8018-688e7b7eeee8-0
+00:03:05.040 --> 00:03:06.760
+And then looking at the edit
+tab.
+
+1c112b84-cf24-4f9a-bc5e-52039abedc50-0
+00:03:07.080 --> 00:03:14.398
+In here we have undo and redo
+buttons as well as copy and
+
+1c112b84-cf24-4f9a-bc5e-52039abedc50-1
+00:03:14.398 --> 00:03:21.969
+paste functions, and we also
+have options for selecting and
+
+1c112b84-cf24-4f9a-bc5e-52039abedc50-2
+00:03:21.969 --> 00:03:26.260
+moving around our layout in
+view.
+
+8a5a5d18-1d27-47dc-acd9-d44199abcc67-0
+00:03:26.260 --> 00:03:32.791
+We have options for zooming and
+we can also set a grid or guides
+
+8a5a5d18-1d27-47dc-acd9-d44199abcc67-1
+00:03:32.791 --> 00:03:38.620
+in here and these help us align
+our map and map elements.
+
+e211f0ed-f6fa-4e8e-a9a8-cc6dfbf17a1b-0
+00:03:39.300 --> 00:03:43.996
+We have rulers and guides
+toggled on and so this is why we
+
+e211f0ed-f6fa-4e8e-a9a8-cc6dfbf17a1b-1
+00:03:43.996 --> 00:03:49.170
+can see the measurements around
+the sides of our page around the
+
+e211f0ed-f6fa-4e8e-a9a8-cc6dfbf17a1b-2
+00:03:49.170 --> 00:03:51.240
+top on the left hand side.
+
+8b107a82-74a9-45ab-af9d-4d61cf5c0375-0
+00:03:51.440 --> 00:03:56.528
+These are our rulers and the
+guides will pop up when we move
+
+8b107a82-74a9-45ab-af9d-4d61cf5c0375-1
+00:03:56.528 --> 00:04:01.200
+items around and these help us
+align our items in view.
+
+a4031e1c-69ec-4f22-b9e0-743714d1ad54-0
+00:04:01.200 --> 00:04:11.770
+We can also toggle our toolbars
+and panels on and off.
+
+e06ff7f6-e6a9-4d81-9714-fe97e31a4b4e-0
+00:04:12.160 --> 00:04:15.493
+In items we can group the things
+that we add onto our layout
+
+e06ff7f6-e6a9-4d81-9714-fe97e31a4b4e-1
+00:04:15.493 --> 00:04:18.553
+together and we can also
+organise them to bring them to
+
+e06ff7f6-e6a9-4d81-9714-fe97e31a4b4e-2
+00:04:18.553 --> 00:04:19.920
+the front or to the back.
+
+d5dc9cec-11cb-43ea-af61-bd89201e8b3e-0
+00:04:20.600 --> 00:04:25.092
+And in here we can also lock
+items, align them and resize
+
+d5dc9cec-11cb-43ea-af61-bd89201e8b3e-1
+00:04:25.092 --> 00:04:25.480
+them.
+
+0f1a645d-8dc4-4c4b-9b31-48d392392db6-0
+00:04:28.400 --> 00:04:31.778
+Add item is a really useful
+section so this is where we can
+
+0f1a645d-8dc4-4c4b-9b31-48d392392db6-1
+00:04:31.778 --> 00:04:35.100
+add in a lot of the elements
+into our print layout that we
+
+0f1a645d-8dc4-4c4b-9b31-48d392392db6-2
+00:04:35.100 --> 00:04:35.719
+might want.
+
+4529c12b-f673-49d4-97f9-9bf039ecd15b-0
+00:04:36.360 --> 00:04:39.040
+So this is where we went to add
+in our map frame.
+
+81de0b33-8158-4b37-b8ef-2607e8e0a262-0
+00:04:39.520 --> 00:04:44.375
+There's also options for adding
+pictures and labels and legends,
+
+81de0b33-8158-4b37-b8ef-2607e8e0a262-1
+00:04:44.375 --> 00:04:45.720
+shapes and arrows.
+
+d1fa0721-1706-4816-b01d-ba60090f7f97-0
+00:04:46.040 --> 00:04:48.040
+We're going to take a look at
+adding a scale bar.
+
+971f7da6-5748-419f-ba33-3607a62ac918-0
+00:04:48.040 --> 00:04:52.813
+So we're going to click where it
+says add scale bar and this is
+
+971f7da6-5748-419f-ba33-3607a62ac918-1
+00:04:52.813 --> 00:04:57.661
+going to give us the draw mouse
+again so we can draw it onto our
+
+971f7da6-5748-419f-ba33-3607a62ac918-2
+00:04:57.661 --> 00:04:57.960
+map.
+
+233caee0-0e49-4773-8cd2-21e17c0c3932-0
+00:05:03.320 --> 00:05:04.560
+And there's our scale bar.
+
+5e5c0075-4ace-4c73-b491-64c8a9079f01-0
+00:05:04.560 --> 00:05:09.139
+So if we wanted to change this
+further to suit our preferences,
+
+5e5c0075-4ace-4c73-b491-64c8a9079f01-1
+00:05:09.139 --> 00:05:13.575
+we can just either click on it
+within our map frame or within
+
+5e5c0075-4ace-4c73-b491-64c8a9079f01-2
+00:05:13.575 --> 00:05:14.719
+the items panel.
+
+e1d110a6-9ed2-4dc0-807d-bac88df83fcd-0
+00:05:14.720 --> 00:05:17.920
+Here on the right hand side we
+make sure it's selected.
+
+e101533e-b1ce-4bfd-8433-fe9dd23fce7b-0
+00:05:20.360 --> 00:05:24.080
+Then we can go into item
+properties which is just below.
+
+455b0422-e5dd-4a8c-8ebe-9d06f61a1767-0
+00:05:25.080 --> 00:05:29.911
+And this is where we have all
+the options for changing how our
+
+455b0422-e5dd-4a8c-8ebe-9d06f61a1767-1
+00:05:29.911 --> 00:05:33.440
+scale bar looks and like the
+scale bar units.
+
+47f2087a-88fc-4472-adb5-0e66e74a4bbb-0
+00:05:33.440 --> 00:05:37.000
+For example position and size.
+
+902dd584-561e-46ad-8822-87ed2bb8575e-0
+00:05:37.000 --> 00:05:40.932
+So this is where we have all of
+the different options for
+
+902dd584-561e-46ad-8822-87ed2bb8575e-1
+00:05:40.932 --> 00:05:42.560
+setting our preferences.
+
+ba148458-9da4-49f2-92eb-81495c47645f-0
+00:05:46.000 --> 00:05:49.240
+Let's also take a look at adding
+a north arrow.
+
+6e542816-814e-4f57-bc9a-22989a508c5b-0
+00:05:49.640 --> 00:05:53.894
+So we'll do that by going back
+into add item and go on add
+
+6e542816-814e-4f57-bc9a-22989a508c5b-1
+00:05:53.894 --> 00:05:54.760
+north arrow.
+
+f18456f0-430e-4774-b770-fc0b53032766-0
+00:05:56.160 --> 00:05:59.745
+So adding a N arrow isn't
+normally necessary unless your
+
+f18456f0-430e-4774-b770-fc0b53032766-1
+00:05:59.745 --> 00:06:03.770
+map isn't orientated north, but
+we'll do it anyway just to have
+
+f18456f0-430e-4774-b770-fc0b53032766-2
+00:06:03.770 --> 00:06:05.279
+a look at how you do it.
+
+d479795e-e3f5-4c83-b26f-aa68c89adf09-0
+00:06:05.720 --> 00:06:09.967
+And now you can see that we have
+these guidelines popping up to
+
+d479795e-e3f5-4c83-b26f-aa68c89adf09-1
+00:06:09.967 --> 00:06:11.760
+help us align our elements.
+
+b370d3d7-080f-4cc6-8a7f-1483e03a6752-0
+00:06:12.080 --> 00:06:18.135
+So let's draw our north arrow on
+and now we can resize this and
+
+b370d3d7-080f-4cc6-8a7f-1483e03a6752-1
+00:06:18.135 --> 00:06:21.920
+move it around to how we want it
+to be.
+
+0f28c1ae-56e1-4750-a373-b714eac70abf-0
+00:06:27.040 --> 00:06:29.920
+And again to change the north
+arrow.
+
+7bb738f1-e77a-4dae-b3bc-77e37d984b83-0
+00:06:29.920 --> 00:06:34.382
+To get it exactly how we want
+it, we can click on it in our
+
+7bb738f1-e77a-4dae-b3bc-77e37d984b83-1
+00:06:34.382 --> 00:06:38.994
+map frame or within the items,
+and now we can access the item
+
+7bb738f1-e77a-4dae-b3bc-77e37d984b83-2
+00:06:38.994 --> 00:06:43.160
+properties and we can change it
+to exactly how we want.
+
+d6f2295f-c847-416b-bef0-5cdd0b24acdb-0
+00:06:49.530 --> 00:06:52.654
+Let's take a look at the other
+tabs that we've not gone through
+
+d6f2295f-c847-416b-bef0-5cdd0b24acdb-1
+00:06:52.654 --> 00:06:52.850
+yet.
+
+bf240857-e4bb-4b2b-98f8-c340086a615c-0
+00:06:53.210 --> 00:06:55.290
+So we have the Atlas tab.
+
+acdd51bc-4f49-4d4c-87f2-f4cef6d04e27-0
+00:06:55.640 --> 00:06:57.600
+We're not going to worry too
+much about this.
+
+7cb5d785-9b20-4537-9e5d-c1587bebc103-0
+00:06:57.880 --> 00:07:01.256
+We would use this if we wanted
+to make a map template to
+
+7cb5d785-9b20-4537-9e5d-c1587bebc103-1
+00:07:01.256 --> 00:07:04.396
+publish a large number of
+similar maps for different
+
+7cb5d785-9b20-4537-9e5d-c1587bebc103-2
+00:07:04.396 --> 00:07:05.640
+geographic locations.
+
+c6506c28-f04b-463d-9ae7-00e3bbc8fac5-0
+00:07:06.520 --> 00:07:11.200
+In settings we can access our
+layout options.
+
+4b612158-12b0-46bb-ad6e-fc5cbc647128-0
+00:07:11.200 --> 00:07:15.034
+So this is where we set our
+preferences for how we want our
+
+4b612158-12b0-46bb-ad6e-fc5cbc647128-1
+00:07:15.034 --> 00:07:17.080
+layout page to function or look.
+
+6ae253e5-f969-47f7-b1d5-f6556b3b5668-0
+00:07:19.400 --> 00:07:23.200
+And then again underneath this
+menu bar we have our toolbars.
+
+09c89bc9-ea42-4a78-832c-0ace537a5828-0
+00:07:23.200 --> 00:07:28.598
+So we've got some quick access
+buttons that we can use within
+
+09c89bc9-ea42-4a78-832c-0ace537a5828-1
+00:07:28.598 --> 00:07:33.735
+here and if we right click we
+can also access where we can
+
+09c89bc9-ea42-4a78-832c-0ace537a5828-2
+00:07:33.735 --> 00:07:37.480
+toggle the panels and toolbars
+on and off.
+
+92b0d940-89e9-47ef-b1d5-04fe3e449c0f-0
+00:07:39.600 --> 00:07:43.080
+In the left hand side we've got
+these quick buttons as well.
+
+62ecce83-4899-47a4-b6ef-416b3703b2d2-0
+00:07:43.080 --> 00:07:47.781
+So this is some of the ones that
+we've been using like to be able
+
+62ecce83-4899-47a4-b6ef-416b3703b2d2-1
+00:07:47.781 --> 00:07:52.412
+to interact with our map or move
+around our layout or select our
+
+62ecce83-4899-47a4-b6ef-416b3703b2d2-2
+00:07:52.412 --> 00:07:52.840
+items.
+
+dada97d3-93eb-4afa-a2b8-640f6e7a07ad-0
+00:07:53.000 --> 00:07:56.560
+So there's some really useful
+quick access buttons here.
+
+093b5de6-b591-4715-9724-ca81fd08293f-0
+00:07:59.480 --> 00:08:01.560
+Let's take a look on the right
+hand side.
+
+8adbf598-8feb-4a3e-b8ad-e44abcb85aa1-0
+00:08:01.640 --> 00:08:03.960
+So in here we have our items.
+
+519d8a88-ff11-487a-bfcd-1599729bc853-0
+00:08:03.960 --> 00:08:07.320
+This is where we've been
+selecting our items.
+
+beb00591-1f84-48a2-b311-011e74b0b360-0
+00:08:07.760 --> 00:08:11.202
+We also have toggle boxes for
+each item so we can turn them on
+
+beb00591-1f84-48a2-b311-011e74b0b360-1
+00:08:11.202 --> 00:08:11.640
+and off.
+
+5cbd4241-0d48-4dde-9f39-943c1ccbcb6c-0
+00:08:12.680 --> 00:08:18.114
+And we have boxes to lock the
+items as well to lock them into
+
+5cbd4241-0d48-4dde-9f39-943c1ccbcb6c-1
+00:08:18.114 --> 00:08:18.640
+place.
+
+712cdac2-5b48-416b-b0d4-1d3d1671ae8d-0
+00:08:18.640 --> 00:08:20.200
+And now we can't move it.
+
+3b43b98a-d5fa-47b5-8081-40a9cee95cce-0
+00:08:23.520 --> 00:08:27.480
+And we can also drag them up and
+down in here.
+
+2c288938-c2ab-4e19-8add-e3c2bf14b2bd-0
+00:08:27.480 --> 00:08:30.822
+And so we could put elements on
+top of each other, like we've
+
+2c288938-c2ab-4e19-8add-e3c2bf14b2bd-1
+00:08:30.822 --> 00:08:32.440
+just moved the map to the top.
+
+93ba06f9-8f3b-4150-9d23-949ae2161c89-0
+00:08:35.280 --> 00:08:39.120
+The tab just next to items is
+undo history.
+
+f8cf1082-c673-4a71-a18b-6a838a45c318-0
+00:08:39.360 --> 00:08:42.690
+And this is where we can see the
+history of all the things that
+
+f8cf1082-c673-4a71-a18b-6a838a45c318-1
+00:08:42.690 --> 00:08:44.200
+we've done within our layout.
+
+eb8466be-0a21-4f1f-a697-84f8f8d52ea1-0
+00:08:44.400 --> 00:08:48.072
+And we can click on one of them
+to go back to what we had done
+
+eb8466be-0a21-4f1f-a697-84f8f8d52ea1-1
+00:08:48.072 --> 00:08:48.480
+before.
+
+a598177c-a55d-4b46-a667-39fd0ae53476-0
+00:08:51.320 --> 00:08:55.360
+And now we'll take a look at the
+window underneath our items.
+
+5092391a-1364-47f6-a3f8-c7df333d7ba3-0
+00:08:55.360 --> 00:08:58.223
+And so we have our item
+properties that we've been
+
+5092391a-1364-47f6-a3f8-c7df333d7ba3-1
+00:08:58.223 --> 00:08:58.560
+using.
+
+e87d3394-937a-4fe7-a026-c83b8bf0a46f-0
+00:08:58.760 --> 00:09:00.840
+But let's take a look at the
+layout.
+
+da55a795-1fe5-41a5-9e75-b5c2e981790b-0
+00:09:03.600 --> 00:09:04.160
+So layout.
+
+bce62445-08f8-4804-8e7f-5c8dbde6b381-0
+00:09:04.160 --> 00:09:09.715
+We just have some preferences
+for the actual layout of our
+
+bce62445-08f8-4804-8e7f-5c8dbde6b381-1
+00:09:09.715 --> 00:09:15.836
+page, so things like our guides
+and grids, export functions, and
+
+bce62445-08f8-4804-8e7f-5c8dbde6b381-2
+00:09:15.836 --> 00:09:17.719
+resizing our layout.
+
+0104e10c-363d-4c81-b117-7ac274d09d0a-0
+00:09:20.320 --> 00:09:24.384
+So we've already taken a look at
+the Item properties tab, but
+
+0104e10c-363d-4c81-b117-7ac274d09d0a-1
+00:09:24.384 --> 00:09:27.400
+we'll just take a look at our
+map properties.
+
+392d7cd2-ee2f-4583-8d62-6c0b7e5ac887-0
+00:09:27.400 --> 00:09:31.280
+So we'll make sure our map is
+selected in our items.
+
+fb0216a8-5d14-45a7-a2fa-d280943c8674-0
+00:09:35.160 --> 00:09:38.880
+And now let's look at the map
+item properties.
+
+0ba8463d-af49-43ee-812f-f0a944c7ae92-0
+00:09:39.240 --> 00:09:43.907
+So what we can have access to
+now is the buttons that are at
+
+0ba8463d-af49-43ee-812f-f0a944c7ae92-1
+00:09:43.907 --> 00:09:44.520
+the top.
+
+09130445-7e7f-492d-9ca8-7c176ee05e87-0
+00:09:45.160 --> 00:09:49.600
+And so we have some buttons for
+changing the extent of our map.
+
+bb8581fa-3e9b-47f8-84c3-970721fc103d-0
+00:09:50.000 --> 00:09:53.920
+We also have a button to access
+the bookmarks within our map.
+
+d4d6a046-db9f-441b-b398-7ca5a4ce2c55-0
+00:09:53.920 --> 00:09:57.705
+So for example, the Italy
+bookmark that we created, we can
+
+d4d6a046-db9f-441b-b398-7ca5a4ce2c55-1
+00:09:57.705 --> 00:10:01.427
+now go and access that and we
+have the button as well for
+
+d4d6a046-db9f-441b-b398-7ca5a4ce2c55-2
+00:10:01.427 --> 00:10:05.276
+being able to interact within
+our map, so to move it around
+
+d4d6a046-db9f-441b-b398-7ca5a4ce2c55-3
+00:10:05.276 --> 00:10:06.560
+and zoom in and out.
+
+7ae20b17-809d-43db-b1d2-a2ce09734eb4-0
+00:10:07.400 --> 00:10:14.826
+And then within item properties,
+we can change the scale of our
+
+7ae20b17-809d-43db-b1d2-a2ce09734eb4-1
+00:10:14.826 --> 00:10:21.441
+map, the rotation we could
+manually change the extent of
+
+7ae20b17-809d-43db-b1d2-a2ce09734eb4-2
+00:10:21.441 --> 00:10:28.520
+our map and scrolling down,
+we've got lots of other options.
+
+67f946a0-0fd8-49ef-bfee-58a64dc7bb74-0
+00:10:28.560 --> 00:10:34.090
+So you can just play around and
+change your map to exactly how
+
+67f946a0-0fd8-49ef-bfee-58a64dc7bb74-1
+00:10:34.090 --> 00:10:34.880
+you want.
+
+713981b2-9f2e-4aa9-a298-259e6b93ae53-0
+00:10:35.600 --> 00:10:37.960
+We're going to take a look at
+adding grid lines.
+
+6eea6e46-71f3-4982-899b-4f22985cadad-0
+00:10:38.320 --> 00:10:43.142
+So to do that we need to click
+on this green plus symbol here
+
+6eea6e46-71f3-4982-899b-4f22985cadad-1
+00:10:43.142 --> 00:10:47.888
+underneath where it says grids
+and we can select the grid we
+
+6eea6e46-71f3-4982-899b-4f22985cadad-2
+00:10:47.888 --> 00:10:52.866
+added and click modify grid and
+now this is going to let us add
+
+6eea6e46-71f3-4982-899b-4f22985cadad-3
+00:10:52.866 --> 00:10:53.800
+our grid in.
+
+38ba38aa-f6e4-427e-9b9b-b12ead951eac-0
+00:10:53.800 --> 00:10:56.694
+So at the moment we can't see
+our grid even though we added it
+
+38ba38aa-f6e4-427e-9b9b-b12ead951eac-1
+00:10:56.694 --> 00:10:58.440
+because we need to set the
+intervals.
+
+05521524-82f2-434f-b0ab-ee1af5d1449d-0
+00:10:59.360 --> 00:11:03.320
+First of all for grid type we
+want it to be solid.
+
+a2b89456-80e4-489e-bdb6-27e7c65f84f9-0
+00:11:03.640 --> 00:11:08.818
+This is going to make some solid
+lines over our map, and then for
+
+a2b89456-80e4-489e-bdb6-27e7c65f84f9-1
+00:11:08.818 --> 00:11:11.800
+interval we'll set this as map
+units.
+
+b0a6cdc4-7ff9-4348-8575-50b3e538ff79-0
+00:11:11.800 --> 00:11:15.480
+So which unit this is depends on
+the projected coordinate system
+
+b0a6cdc4-7ff9-4348-8575-50b3e538ff79-1
+00:11:15.480 --> 00:11:16.160
+of your map.
+
+696951a7-1332-4287-81a6-7d11e95a1619-0
+00:11:16.440 --> 00:11:20.465
+If your map coordinate system is
+in degrees, you'll want
+
+696951a7-1332-4287-81a6-7d11e95a1619-1
+00:11:20.465 --> 00:11:24.280
+something like 0.00001 intervals
+in this X&amp;Y box.
+
+c7306ed8-07f9-4004-95bd-5f9f3363e881-0
+00:11:24.520 --> 00:11:28.069
+But our map coordinate system is
+in metres, so something around
+
+c7306ed8-07f9-4004-95bd-5f9f3363e881-1
+00:11:28.069 --> 00:11:29.400
+10,000 should work well.
+
+292dda52-20fe-43b8-98ed-dc7d463793be-0
+00:11:29.760 --> 00:11:32.480
+So let's put that in the X&amp;Y
+box.
+
+e7db7564-72f2-4367-8020-01c5221903ca-0
+00:11:39.880 --> 00:11:42.960
+And now we have our grid lines,
+but we want to add some labels.
+
+079b95ab-d876-4df7-890f-003ccd545123-0
+00:11:43.200 --> 00:11:46.040
+So we're going to add some ticks
+and labels.
+
+f4553650-9310-4940-b9df-4505265492ee-0
+00:11:46.400 --> 00:11:52.129
+To add our ticks we can scroll
+down and go into the frame
+
+f4553650-9310-4940-b9df-4505265492ee-1
+00:11:52.129 --> 00:11:57.760
+section and under frame style we
+can put exterior ticks.
+
+a75f4e51-e5c4-46d0-885b-4c1396b708b7-0
+00:11:59.400 --> 00:12:03.488
+And this just added the little
+tick marks around the outside of
+
+a75f4e51-e5c4-46d0-885b-4c1396b708b7-1
+00:12:03.488 --> 00:12:04.000
+our map.
+
+71a5151e-6233-43b0-8b58-960cb39eb25a-0
+00:12:05.160 --> 00:12:07.680
+And now let's add our labels.
+
+e3f37f64-a859-4942-8ad2-e93a3339e32d-0
+00:12:07.680 --> 00:12:10.519
+So to do that we'll Scroll down
+to where it says draw
+
+e3f37f64-a859-4942-8ad2-e93a3339e32d-1
+00:12:10.519 --> 00:12:12.360
+coordinates and toggle the box
+on.
+
+d7b644e7-7385-430b-947a-e58c99c77b8e-0
+00:12:13.600 --> 00:12:18.256
+And now we've got some labels,
+so let's change the format
+
+d7b644e7-7385-430b-947a-e58c99c77b8e-1
+00:12:18.256 --> 00:12:23.154
+because we want decimal with
+suffix and that's going to give
+
+d7b644e7-7385-430b-947a-e58c99c77b8e-2
+00:12:23.154 --> 00:12:24.840
+us the north and West
+
+9a0442ee-bdac-4090-b402-86ea03803866-0
+00:12:24.840 --> 00:12:29.794
+so we know that we're looking at
+the longitude and the latitude,
+
+9a0442ee-bdac-4090-b402-86ea03803866-1
+00:12:29.794 --> 00:12:34.520
+and we can set lots of different
+preferences in this section.
+
+581599ff-c350-45ee-88b9-3a6a8b0d5329-0
+00:12:34.520 --> 00:12:38.311
+So have a play around with these
+different buttons to get your
+
+581599ff-c350-45ee-88b9-3a6a8b0d5329-1
+00:12:38.311 --> 00:12:40.960
+grid lines and your labels to
+how you want.
+
+ccfa9e5d-9300-4598-8351-b9fa5188b278-0
+00:12:41.920 --> 00:12:45.149
+We're just going to change the
+coordinate position for for now,
+
+ccfa9e5d-9300-4598-8351-b9fa5188b278-1
+00:12:45.149 --> 00:12:48.277
+so we're just going to put zero
+here just to get rid of those
+
+ccfa9e5d-9300-4598-8351-b9fa5188b278-2
+00:12:48.277 --> 00:12:49.639
+unnecessary decimal points.
+
+fce9eedd-286f-49e9-9369-5316772aa4cd-0
+00:12:51.360 --> 00:12:55.034
+So that's how to add grids, and
+that's all the main buttons and
+
+fce9eedd-286f-49e9-9369-5316772aa4cd-1
+00:12:55.034 --> 00:12:57.560
+layouts of the print layout
+window in QGIS.
+
+b346698f-411f-4782-b1b5-33206d4629b9-0
+00:12:57.960 --> 00:13:00.660
+The last thing we're going to
+talk about is how to get your
+
+b346698f-411f-4782-b1b5-33206d4629b9-1
+00:13:00.660 --> 00:13:02.640
+layout back up if you
+accidentally shut it.
+
+9ec74ac3-35dd-4976-b6d4-71e8373233ab-0
+00:13:03.000 --> 00:13:08.338
+So if you accidentally hit the X
+button and you needed to get it
+
+9ec74ac3-35dd-4976-b6d4-71e8373233ab-1
+00:13:08.338 --> 00:13:13.513
+back up, go in your map view in
+your project and you can go in
+
+9ec74ac3-35dd-4976-b6d4-71e8373233ab-2
+00:13:13.513 --> 00:13:18.441
+the Project tab, go into the
+layouts and now you can access
+
+9ec74ac3-35dd-4976-b6d4-71e8373233ab-3
+00:13:18.441 --> 00:13:19.920
+your layout again.

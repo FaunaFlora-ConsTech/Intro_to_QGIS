@@ -1,0 +1,429 @@
+WEBVTT
+
+2987bce3-aa47-4d90-9f4c-d87a9a9d5493-0
+00:00:01.440 --> 00:00:05.296
+Now that we know how to look at
+the symbology of our vector data
+
+2987bce3-aa47-4d90-9f4c-d87a9a9d5493-1
+00:00:05.296 --> 00:00:08.975
+layers and change these to how
+we want, we're going to take a
+
+2987bce3-aa47-4d90-9f4c-d87a9a9d5493-2
+00:00:08.975 --> 00:00:12.120
+look at changing the symbology
+of our raster layers.
+
+3ea34220-908a-46a5-ae9e-a5f17fd923d9-0
+00:00:12.600 --> 00:00:17.114
+So let's toggle off the vector
+data layers and just have a look
+
+3ea34220-908a-46a5-ae9e-a5f17fd923d9-1
+00:00:17.114 --> 00:00:20.360
+at our two rasters, Land Cover
+and elevation.
+
+d3764ca0-6a13-4276-bfa0-8e992c5538c9-0
+00:00:22.920 --> 00:00:28.473
+We can tell that these are
+rasters because if we zoom in on
+
+d3764ca0-6a13-4276-bfa0-8e992c5538c9-1
+00:00:28.473 --> 00:00:34.212
+them in our map frame, we can
+see that they're layers made-up
+
+d3764ca0-6a13-4276-bfa0-8e992c5538c9-2
+00:00:34.212 --> 00:00:38.840
+of lots of different pixels of
+different colours.
+
+ead3c7e2-0d8b-4073-aa4c-db26c452f60f-0
+00:00:41.000 --> 00:00:45.017
+So it's the same for the
+elevation layer as well, we just
+
+ead3c7e2-0d8b-4073-aa4c-db26c452f60f-1
+00:00:45.017 --> 00:00:49.589
+need to zoom in a bit further to
+see the different pixels, as the
+
+ead3c7e2-0d8b-4073-aa4c-db26c452f60f-2
+00:00:49.589 --> 00:00:52.360
+pixels in this layer are a bit
+smaller.
+
+98e27022-fe19-4fec-a49a-cc74aa0f2f1e-0
+00:00:55.600 --> 00:00:59.022
+And now we'll take a look at
+changing the symbology for this
+
+98e27022-fe19-4fec-a49a-cc74aa0f2f1e-1
+00:00:59.022 --> 00:00:59.920
+elevation layer.
+
+485f2520-6f44-4ef1-b7eb-8b47d1371726-0
+00:01:00.360 --> 00:01:03.440
+So stay with the elevation layer
+toggled on.
+
+1abea301-0656-4478-add8-f110b07bc1e9-0
+00:01:04.040 --> 00:01:07.153
+And what we're going to do is
+we're going to right click on
+
+1abea301-0656-4478-add8-f110b07bc1e9-1
+00:01:07.153 --> 00:01:10.111
+the layer and click zoom to
+layer so we can see the full
+
+1abea301-0656-4478-add8-f110b07bc1e9-2
+00:01:10.111 --> 00:01:11.719
+extent of the elevation raster.
+
+10bc983b-deb8-47bb-b0c1-051de0f27389-0
+00:01:15.160 --> 00:01:19.840
+And now looking in our layers
+list, we can see that for this
+
+10bc983b-deb8-47bb-b0c1-051de0f27389-1
+00:01:19.840 --> 00:01:24.520
+layer we have a black box for
+zero and a white box for 1386.
+
+3e357fd7-e2e2-4272-84f7-a5b2c319f1a9-0
+00:01:25.520 --> 00:01:30.622
+So this is a continuous raster
+layer as we have elevation going
+
+3e357fd7-e2e2-4272-84f7-a5b2c319f1a9-1
+00:01:30.622 --> 00:01:35.486
+from zero to 1386 meters and so
+each pixel is representing a
+
+3e357fd7-e2e2-4272-84f7-a5b2c319f1a9-2
+00:01:35.486 --> 00:01:37.400
+value within this range.
+
+bd2ac4bf-fa0a-405b-aa55-260460e93cbb-0
+00:01:37.800 --> 00:01:41.457
+This means that white is
+representing the highest
+
+bd2ac4bf-fa0a-405b-aa55-260460e93cbb-1
+00:01:41.457 --> 00:01:45.992
+elevation in our landscape which
+is 1386 meters, and black is
+
+bd2ac4bf-fa0a-405b-aa55-260460e93cbb-2
+00:01:45.992 --> 00:01:48.480
+representing the lowest 0
+meters.
+
+818bf7ef-6050-4dfd-a1b8-3adbe1327474-0
+00:01:49.120 --> 00:01:52.694
+So all the elevation heights we
+have in our landscape are being
+
+818bf7ef-6050-4dfd-a1b8-3adbe1327474-1
+00:01:52.694 --> 00:01:55.040
+represented on a scale of black
+to white.
+
+2873d9e7-05c0-4e80-b7d8-570d2f093092-0
+00:01:56.520 --> 00:02:00.144
+Now let's open up the symbology
+tab just by double clicking on
+
+2873d9e7-05c0-4e80-b7d8-570d2f093092-1
+00:02:00.144 --> 00:02:00.720
+our layer.
+
+b2a2b7ac-b512-4742-8220-c903894bdb0e-0
+00:02:02.400 --> 00:02:06.391
+So the symbology tab for raster
+layers looks slightly different
+
+b2a2b7ac-b512-4742-8220-c903894bdb0e-1
+00:02:06.391 --> 00:02:10.382
+in the top drop down box though
+we can still choose the type of
+
+b2a2b7ac-b512-4742-8220-c903894bdb0e-2
+00:02:10.382 --> 00:02:13.937
+symbology that we want to
+represent our layer and at the
+
+b2a2b7ac-b512-4742-8220-c903894bdb0e-3
+00:02:13.937 --> 00:02:16.120
+moment we have a single band
+grey.
+
+37625cc1-9a4c-4163-af37-09e734a83c84-0
+00:02:16.440 --> 00:02:19.520
+This is what's giving our black
+to white colour ramp.
+
+bcfa2a67-fcdb-4771-a777-f0801e40936e-0
+00:02:19.840 --> 00:02:23.584
+Let's change this to single band
+pseudo colour to have more
+
+bcfa2a67-fcdb-4771-a777-f0801e40936e-1
+00:02:23.584 --> 00:02:24.520
+colour options.
+
+26fa7b3c-6e1d-45f0-bb7d-102e472a1fe2-0
+00:02:27.960 --> 00:02:35.257
+So now to change the colour we
+can go into the colour ramp drop
+
+26fa7b3c-6e1d-45f0-bb7d-102e472a1fe2-1
+00:02:35.257 --> 00:02:41.870
+down box and we can see we have
+some colour options here.
+
+2e23ed55-8dd0-4010-a1b8-538ea8225160-0
+00:02:41.870 --> 00:02:45.930
+But we're going to hover over
+all colour ramps to get even
+
+2e23ed55-8dd0-4010-a1b8-538ea8225160-1
+00:02:45.930 --> 00:02:49.510
+more options and then we're
+going to click on BRBG.
+
+7b10706e-1a4e-46c4-969a-84b34f261c06-0
+00:02:52.310 --> 00:02:55.967
+And now if we hit apply this is
+going to apply this colour ramp
+
+7b10706e-1a4e-46c4-969a-84b34f261c06-1
+00:02:55.967 --> 00:02:56.710
+to our layer.
+
+6b25165b-2dc6-47e0-824a-fd7de7dbaf3d-0
+00:02:58.800 --> 00:03:01.912
+And actually this has given us
+the inverse of what we want
+
+6b25165b-2dc6-47e0-824a-fd7de7dbaf3d-1
+00:03:01.912 --> 00:03:05.288
+because we want the bluey colour
+to be the lowest elevation and
+
+6b25165b-2dc6-47e0-824a-fd7de7dbaf3d-2
+00:03:05.288 --> 00:03:07.240
+the Orangey brown to be the
+highest.
+
+d5d7175d-92ae-4899-b1e0-09f4ea170a63-0
+00:03:07.600 --> 00:03:10.819
+So to change it we're going to
+click on the drop down box in
+
+d5d7175d-92ae-4899-b1e0-09f4ea170a63-1
+00:03:10.819 --> 00:03:13.986
+the colour ramp section and
+click on Invert Colour ramp and
+
+d5d7175d-92ae-4899-b1e0-09f4ea170a63-2
+00:03:13.986 --> 00:03:16.520
+hit apply and there we go,
+that's what we want.
+
+8ba127e7-abaa-4952-975a-0b5ff0dc06e9-0
+00:03:16.520 --> 00:03:20.382
+So now we have a symbology
+that's representing elevation
+
+8ba127e7-abaa-4952-975a-0b5ff0dc06e9-1
+00:03:20.382 --> 00:03:24.719
+much better and it's a lot more
+clear what this rattle layer is
+
+8ba127e7-abaa-4952-975a-0b5ff0dc06e9-2
+00:03:24.719 --> 00:03:25.600
+representing.
+
+f351b6a9-9844-4b00-bf92-c1865a2569f7-0
+00:03:28.560 --> 00:03:32.084
+So now we're going to take a
+look at our land cover layer so
+
+f351b6a9-9844-4b00-bf92-c1865a2569f7-1
+00:03:32.084 --> 00:03:35.320
+we can toggle off the elevation
+and turn on land cover.
+
+98304a95-2971-492f-9b0a-639174810387-0
+00:03:36.320 --> 00:03:39.360
+And this land cover layer is a
+discrete raster.
+
+438cc4bd-1abb-4a1f-976e-cbd1cd8bfe23-0
+00:03:39.520 --> 00:03:42.734
+And that's because we have 9
+categories of different land
+
+438cc4bd-1abb-4a1f-976e-cbd1cd8bfe23-1
+00:03:42.734 --> 00:03:43.400
+cover types.
+
+70b2d023-f6f9-48df-9712-e15d28fcab28-0
+00:03:43.680 --> 00:03:46.598
+And so each pixel is
+representing one of these
+
+70b2d023-f6f9-48df-9712-e15d28fcab28-1
+00:03:46.598 --> 00:03:47.840
+discrete categories.
+
+33df95b9-0f09-4d4a-800b-a24426804591-0
+00:03:50.040 --> 00:03:53.651
+So let's go into the symbology
+window again by double clicking
+
+33df95b9-0f09-4d4a-800b-a24426804591-1
+00:03:53.651 --> 00:03:55.600
+and going into the symbology
+tab.
+
+127254ee-1618-4a35-9e26-e7be57706533-0
+00:03:56.600 --> 00:04:00.720
+We need to go in this render
+type drop down box again.
+
+7eb5d061-4d55-4319-a902-0a914b03f9f3-0
+00:04:01.120 --> 00:04:04.887
+So at the moment we have a
+single band Gray symbology, but
+
+7eb5d061-4d55-4319-a902-0a914b03f9f3-1
+00:04:04.887 --> 00:04:08.526
+this isn't representing our
+discrete raster very well so
+
+7eb5d061-4d55-4319-a902-0a914b03f9f3-2
+00:04:08.526 --> 00:04:11.400
+we're going to change this to
+unique values.
+
+f65978ed-3ff9-4f89-b9b0-046772fcacbd-0
+00:04:12.240 --> 00:04:16.063
+We can leave our colour ramp as
+random colours as we're going to
+
+f65978ed-3ff9-4f89-b9b0-046772fcacbd-1
+00:04:16.063 --> 00:04:19.240
+choose which colours we want for
+each pixel category.
+
+a49a43a9-70f0-4f16-893b-49b13caabeb9-0
+00:04:20.280 --> 00:04:25.004
+And now we're going to click on
+the plus button here to add some
+
+a49a43a9-70f0-4f16-893b-49b13caabeb9-1
+00:04:25.004 --> 00:04:26.240
+pixel categories.
+
+204a30bc-38b6-4400-b8d4-aec676b9679b-0
+00:04:26.520 --> 00:04:33.930
+So we're going to click 9 times
+to add our nine different land
+
+204a30bc-38b6-4400-b8d4-aec676b9679b-1
+00:04:33.930 --> 00:04:38.400
+cover types so you can see them
+here.
+
+82441c8c-d70b-4b8a-973c-fcad031be942-0
+00:04:38.400 --> 00:04:42.799
+And now we can start changing
+each color to represent what
+
+82441c8c-d70b-4b8a-973c-fcad031be942-1
+00:04:42.799 --> 00:04:44.440
+land cover type it is.
+
+337a7fcd-c048-4d66-b9ca-768ba33fd7a7-0
+00:04:45.160 --> 00:04:49.702
+So for the first category 0,
+this is representing where
+
+337a7fcd-c048-4d66-b9ca-768ba33fd7a7-1
+00:04:49.702 --> 00:04:51.000
+there's no data.
+
+84b4659f-151e-479c-923e-369e3cccaa42-0
+00:04:51.040 --> 00:04:56.100
+So we can change the color to be
+no color just by double clicking
+
+84b4659f-151e-479c-923e-369e3cccaa42-1
+00:04:56.100 --> 00:05:00.470
+on the color and we'll just
+change the opacity to 0% and
+
+84b4659f-151e-479c-923e-369e3cccaa42-2
+00:05:00.470 --> 00:05:01.160
+click OK.
+
+15568d99-fbb2-47fc-8bcf-e96c5a984a46-0
+00:05:01.240 --> 00:05:04.961
+And so now we've got a
+completely transparent colour
+
+15568d99-fbb2-47fc-8bcf-e96c5a984a46-1
+00:05:04.961 --> 00:05:09.244
+and in label we can change this
+by double clicking and we'll
+
+15568d99-fbb2-47fc-8bcf-e96c5a984a46-2
+00:05:09.244 --> 00:05:11.000
+change it to say no data.
+
+f3c0dc20-56c9-44a0-853a-64ea7e678b1a-0
+00:05:12.600 --> 00:05:15.360
+We'll hit apply and OK.
+
+098cc6df-8b94-4510-9c9a-b9b6a304c2da-0
+00:05:16.880 --> 00:05:21.006
+And now if we look back in our
+layers list and just open up the
+
+098cc6df-8b94-4510-9c9a-b9b6a304c2da-1
+00:05:21.006 --> 00:05:24.811
+arrow to see our land cover
+symbology, we can see that the
+
+098cc6df-8b94-4510-9c9a-b9b6a304c2da-2
+00:05:24.811 --> 00:05:29.002
+first category is No Colour and
+it's got a label to tell us that
+
+098cc6df-8b94-4510-9c9a-b9b6a304c2da-3
+00:05:29.002 --> 00:05:31.840
+this is representing where
+there's no data.
+
+d3b1df16-980a-4183-b4eb-e398da844b37-0
+00:05:33.480 --> 00:05:37.169
+Now have a go at changing the
+rest of the pixel colours and
+
+d3b1df16-980a-4183-b4eb-e398da844b37-1
+00:05:37.169 --> 00:05:37.600
+labels.
+
+78a173ba-8ef5-4032-8c9e-29f92b44126b-0
+00:05:37.640 --> 00:05:40.679
+All the information that you're
+going to need will be below this
+
+78a173ba-8ef5-4032-8c9e-29f92b44126b-1
+00:05:40.679 --> 00:05:40.960
+video.
